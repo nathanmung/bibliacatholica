@@ -1,41 +1,59 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Biblia Catholica - Official Catholic Bible Digital App
+
+Biblia Catholica is a digital version of the official Catholic Bible. It uses the official text from the Catholic Church and adds audio narration for listening. The website is currently in alpha. It is very incomplete and still under heavy construction.
+
+A modern web app for the full Catholic canon (73 books), with responsive UI, search, verse highlights and arrow navigation. Global project supporting multiple languages, starting with French (AELF text).
+
+## Objective
+- Clean UI/UX: Book grid, arrow navigation, verse copy/highlight, dark mode.
+- Fully mobile: Responsive design + offline cache (PWA).
+- Audio narration.
+- Global accessibility: Official Catholic texts in multiple languages, with narration.
+
+## Tech Stack
+- Next.js 15 (TypeScript, Tailwind CSS).
+- Data: JSON structured texts.
+- Tools: Vercel for deployment.
+
+## Structure
+- `src/app`: Pages (home grid, bible/[bookId]: chapter list with search, bible/[bookId]/[chapterId]: verses with arrows).
+- `src/lib`: bibleData.ts (export bibleBooks).
+- `src/types`: bible.ts (interfaces Book/Chapter/Verse).
+- `txts/`: Source files.
+- `public`: manifest.json (PWA install).
+
+## Languages
+Currently French only (AELF official text). Coming soon: English, Spanish, Italian, Portuguese, Polish (official Vatican texts, with multilingual audio narration).
 
 ## Getting Started
+### Development
+1. Clone: `git clone https://github.com/nathanmung/bibliacatholica.git`
+2. Install deps: `npm install`
+3. Run server: `npm run dev` (localhost:3000).
 
-First, run the development server:
+Optional :
+4. Build prod: `npm run build`.
+5. Lint: `npm run lint -- --fix`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### User Flow
+- Home: Grid "Ancien Testament (MVP: Genesis)" > Click Genesis > Chapter 1 verses.
+- Chapters: Search filter.
+- Verses: Highlight/copy on click, arrows next/prev (Chapters 1-50).
+- Mobile: Responsive stack.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Roadmap
+- v0.2.0: 
+- Dark mode toggle, verse search.
+- Audio for Exodus.
+- Texts for more books of the Old Testament.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## License
+GPL v3 ([LICENSE](LICENSE)). Code/text/images open.
 
-## Learn More
+## Contact
+Nathan Mung – Alpha project, contributions welcome!
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# bibliacatholica
-Biblia Catholica is a digital version of the official Catholic Bible. It uses the official text from the Catholic Church and adds audio narration for listening. The website is currently in alpha. It is very incomplete and still under heavy construction.
->>>>>>> 1188e302dee6b94cdd935704b01bb6d9736067f5
+Biblia Catholica is a digital version of the official Catholic Bible. 
