@@ -1,0 +1,2765 @@
+{
+    "book": {
+        "abbrev": "Jos",
+        "name": "Josué",
+        "testament": "Ancien",
+        "chapters": [
+            {
+                "number": 1,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "APRES LA MORT de Moïse, le serviteur du Seigneur, le Seigneur parla à Josué, fils de Noun, auxiliaire de Moïse, et lui dit :"
+                    },
+                    {
+                        "number": 2,
+                        "text": "« Moïse, mon serviteur, est mort ; maintenant, lève-toi, passe le Jourdain que voici, toi avec tout ce peuple, vers le pays que je donne aux fils d’Israël."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Tous les lieux que foulera la plante de vos pieds, je vous les ai donnés, comme je l’ai dit à Moïse ;"
+                    },
+                    {
+                        "number": 4,
+                        "text": "votre territoire s’étendra depuis le désert et le Liban que voici jusqu’au Grand fleuve, l’Euphrate, tout le pays des Hittites, jusqu’à la Méditerranée, au soleil couchant."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Personne ne pourra te résister tout au long de ta vie. J’étais avec Moïse, je serai avec toi ; je ne te délaisserai pas, je ne t’abandonnerai pas."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Sois fort et courageux, c’est toi qui donneras en héritage à ce peuple le pays que j’avais juré de donner à leurs pères."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Quant à toi, sois fort et très courageux, en veillant à agir selon toute la Loi prescrite par Moïse, mon serviteur. Ne t’en écarte ni à droite ni à gauche, pour réussir partout où tu iras."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Ce livre de la Loi ne quittera pas tes lèvres ; tu le murmureras jour et nuit, afin que tu veilles à agir selon tout ce qui s’y trouve écrit : alors tu feras prospérer tes entreprises, alors tu réussiras."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Ne t’ai-je pas commandé : “Sois fort et courageux !” ? Ne crains pas, ne t’effraie pas, car le Seigneur ton Dieu sera avec toi partout où tu iras. »"
+                    },
+                    {
+                        "number": 10,
+                        "text": "Alors, Josué ordonna aux scribes du peuple :"
+                    },
+                    {
+                        "number": 11,
+                        "text": "« Parcourez le camp, donnez cet ordre au peuple : “Préparez des provisions, car dans trois jours vous passerez le Jourdain que voici, pour aller prendre possession de la terre que le Seigneur votre Dieu vous donne en héritage.” »"
+                    },
+                    {
+                        "number": 12,
+                        "text": "Puis, Josué parla ainsi aux Roubénites, aux Gadites et à la demi-tribu de Manassé :"
+                    },
+                    {
+                        "number": 13,
+                        "text": "« Souvenez-vous de l’ordre de Moïse, le serviteur du Seigneur. Le Seigneur votre Dieu vous accorde le repos et vous donne ce pays."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Vos femmes, vos enfants et vos troupeaux resteront dans le pays donné par Moïse de ce côté du Jourdain. Mais vous, tous les guerriers de valeur, vous passerez en ordre de bataille devant vos frères ; vous leur viendrez en aide,"
+                    },
+                    {
+                        "number": 15,
+                        "text": "jusqu’à ce que le Seigneur leur procure le repos comme à vous, et qu’ils possèdent, eux aussi, le pays donné par le Seigneur votre Dieu. Alors, vous retournerez dans le pays qui est le vôtre, et vous posséderez ce pays que Moïse, le serviteur du Seigneur, vous a donné de ce côté du Jourdain, au soleil levant. »"
+                    },
+                    {
+                        "number": 16,
+                        "text": "Ils répondirent à Josué : « Tout ce que tu nous as ordonné, nous le ferons ; là où tu nous enverras, nous irons."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Comme nous avons obéi en tout à Moïse, nous t’obéirons aussi. Le Seigneur ton Dieu, lui, restera avec toi comme il était avec Moïse."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Si quelqu’un est rebelle à ta voix, s’il n’obéit pas à tes paroles, à tout ce que tu as ordonné, il sera mis à mort. Quant à toi, sois fort et courageux ! »"
+                    }
+                ]
+            },
+            {
+                "number": 2,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Depuis Shittim, Josué, fils de Noun, envoya discrètement deux espions. Il leur dit : « Allez voir le pays et Jéricho. » Ils y allèrent, entrèrent dans la maison d’une prostituée nommée Rahab et y couchèrent."
+                    },
+                    {
+                        "number": 2,
+                        "text": "On dit au roi de Jéricho : « Des hommes sont entrés ici cette nuit, des fils d’Israël, pour reconnaître le pays. »"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Alors, le roi de Jéricho envoya dire à Rahab : « Fais sortir les hommes qui sont venus chez toi – qui sont entrés dans ta maison – car c’est pour reconnaître tout le pays qu’ils sont venus. »"
+                    },
+                    {
+                        "number": 4,
+                        "text": "Mais la femme emmena les deux hommes et les cacha. Puis elle dit : « Oui, ces hommes sont entrés chez moi, mais je ne savais pas d’où ils venaient."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Ils sont sortis quand, à la nuit tombante, on allait fermer la porte de la ville. Je ne sais pas où ils sont allés. Dépêchez-vous de les poursuivre, et vous les rattraperez. »"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Or, elle les avait fait monter sur le toit en terrasse et les avait cachés sous les tiges de lin rangées sur le toit."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Les hommes du roi les poursuivirent en direction du Jourdain, vers le passage des gués, et l’on referma la porte dès que les poursuivants furent sortis."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Quant à eux, à peine étaient-ils allongés que Rahab monta près d’eux, sur le toit,"
+                    },
+                    {
+                        "number": 9,
+                        "text": "et leur dit : « Je sais que le Seigneur vous a donné ce pays, que la terreur s’est abattue sur nous, et que tous les habitants du pays ont été pris de panique à votre approche."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Nous avons entendu dire que le Seigneur avait asséché devant vous l’eau de la mer des Roseaux, lors de votre sortie d’Égypte, et ce que vous avez fait aux deux rois des Amorites, à Séhone et à Og, de l’autre côté du Jourdain : vous les avez voués à l’anathème."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Nous l’avons entendu dire et notre courage a fondu ; devant vous, chacun perd le souffle, car le Seigneur votre Dieu est Dieu là-haut dans les cieux, et en bas sur la terre."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Et maintenant, puisque j’ai agi loyalement envers vous, jurez-moi donc par le Seigneur que vous agirez loyalement, vous aussi, envers la maison de mon père. Donnez-moi une preuve que"
+                    },
+                    {
+                        "number": 13,
+                        "text": "vous laisserez en vie mon père et ma mère, mes frères et mes sœurs, avec ce qui leur appartient, et que vous nous préserverez de la mort. »"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Les hommes lui dirent : « Nos vies contre les vôtres, à moins que vous ne dévoiliez notre entreprise. Quand le Seigneur nous aura donné le pays, nous agirons envers toi avec loyauté et fidélité à notre parole. »"
+                    },
+                    {
+                        "number": 15,
+                        "text": "Alors, elle les fit descendre avec une corde par la fenêtre, car sa maison était sur le mur du rempart, elle habitait dans le rempart."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Elle leur dit : « Allez dans la montagne, de peur que vos poursuivants ne vous rattrapent. Vous vous y cacherez trois jours, jusqu’au retour de ceux qui vous poursuivent ; après, vous pourrez continuer votre route. »"
+                    },
+                    {
+                        "number": 17,
+                        "text": "Les hommes lui dirent : « Ce serment que tu nous as fait jurer, nous le respecterons ainsi :"
+                    },
+                    {
+                        "number": 18,
+                        "text": "quand nous entrerons dans le pays, tu attacheras ce cordon de fil écarlate à la fenêtre par laquelle tu nous as fait descendre ; tu réuniras auprès de toi, dans ta maison, ton père et ta mère, tes frères et toute la famille de ton père."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Si l’un d’entre vous franchit les portes de la maison pour sortir, son sang retombera sur sa tête, nous serons quittes ; si l’on porte la main sur lui alors qu’il est dans ta maison, son sang retombera sur nos têtes."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Mais si tu dévoiles notre entreprise, alors nous serons quittes de ce serment que tu nous as fait jurer. »"
+                    },
+                    {
+                        "number": 21,
+                        "text": "Elle répondit : « Qu’il en soit selon vos paroles ! » Elle les renvoya et ils partirent. Alors, elle attacha le cordon écarlate à la fenêtre."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Ils s’en allèrent, atteignirent la montagne et ils y restèrent trois jours, jusqu’au retour de ceux qui les poursuivaient. Ceux-ci les avaient cherchés tout le long du chemin et ne les avaient pas trouvés."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Alors, les deux hommes s’en retournèrent, descendirent de la montagne, passèrent le Jourdain, revinrent auprès de Josué, fils de Noun, et lui racontèrent tout ce qui leur était arrivé."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Ils dirent à Josué : « Le Seigneur a livré tout le pays entre nos mains et, devant nous, tous ses habitants sont pris de panique. »"
+                    }
+                ]
+            },
+            {
+                "number": 3,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Josué se leva de bon matin et partit de Shittim avec tous les fils d’Israël. Ils allèrent jusqu’au bord du Jourdain. Ils y passèrent la nuit avant de traverser."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Au bout de trois jours, les scribes du peuple parcoururent le camp"
+                    },
+                    {
+                        "number": 3,
+                        "text": "pour lui donner cet ordre : « Quand vous verrez l’arche de l’Alliance du Seigneur votre Dieu et les prêtres lévites qui la portent, vous quitterez le lieu où vous êtes et vous la suivrez."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Mais gardez avec elle une distance d’environ deux mille coudées, ne l’approchez pas. Vous la suivrez pour connaître le chemin à prendre, car vous n’êtes jamais passés par ce chemin ni hier, ni avant-hier. »"
+                    },
+                    {
+                        "number": 5,
+                        "text": "Puis Josué dit au peuple : « Sanctifiez-vous, car demain le Seigneur fera des merveilles au milieu de vous. »"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Et il dit aux prêtres : « Prenez l’arche d’Alliance et passez en tête du peuple. » Ils portèrent l’arche d’Alliance et avancèrent à la tête du peuple."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Le Seigneur dit à Josué : « Aujourd’hui, je vais commencer à te grandir devant tout Israël, pour qu’il sache que je suis avec toi comme j’ai été avec Moïse."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Toi, tu donneras cet ordre aux prêtres qui portent l’arche d’Alliance : “Lorsque vous serez arrivés au bord du Jourdain, vous vous arrêterez dans le lit du fleuve.” »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Josué dit ensuite aux fils d’Israël : « Approchez, écoutez les paroles du Seigneur votre Dieu."
+                    },
+                    {
+                        "number": 10,
+                        "text": "À ceci, vous reconnaîtrez que le Dieu vivant est au milieu de vous, et qu’il vous mettra en possession du pays des Cananéens, des Hittites, des Hivvites, des Perizzites, des Guirgashites, des Amorites et des Jébuséens :"
+                    },
+                    {
+                        "number": 11,
+                        "text": "voici que l’arche de l’Alliance du Seigneur de toute la terre va passer le Jourdain devant vous."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Et maintenant, prenez douze hommes parmi les tribus d’Israël, un homme par tribu."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Aussitôt que les prêtres qui portent l’arche du Seigneur de toute la terre auront posé la plante de leurs pieds dans les eaux du Jourdain, les eaux qui sont en amont seront coupées, et elles s’arrêteront en formant une seule masse. »"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Quand le peuple leva le camp pour passer le Jourdain, les prêtres portaient l’arche d’Alliance en tête du peuple."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Or, le Jourdain coule à pleins bords pendant toute la saison des moissons. Dès que les prêtres qui portaient l’arche furent arrivés au Jourdain, et que leurs pieds touchèrent l’eau,"
+                    },
+                    {
+                        "number": 16,
+                        "text": "les eaux s’arrêtèrent en amont et se dressèrent comme une seule masse sur une grande distance, à partir d’Adame, ville voisine de Sartane ; et en aval, les eaux achevèrent de s’écouler vers la mer de la Araba, la mer Morte. Le peuple traversa à la hauteur de Jéricho."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Les prêtres qui portaient l’arche de l’Alliance du Seigneur restèrent immobiles, sur la terre sèche, au milieu du Jourdain. Alors tout Israël traversa à pied sec, jusqu’à ce que toute la nation eût fini de passer le Jourdain."
+                    }
+                ]
+            },
+            {
+                "number": 4,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Dès que toute la nation eut fini de passer le Jourdain, le Seigneur dit à Josué :"
+                    },
+                    {
+                        "number": 2,
+                        "text": "« Prenez douze hommes dans le peuple, un homme par tribu,"
+                    },
+                    {
+                        "number": 3,
+                        "text": "et donnez-leur cet ordre : “D’ici, au milieu du Jourdain, à l’endroit où les pieds des prêtres se sont immobilisés, enlevez douze pierres ; vous les transporterez avec vous et vous les déposerez dans le campement où vous passerez la nuit”. »"
+                    },
+                    {
+                        "number": 4,
+                        "text": "Alors Josué appela les douze hommes qu’il avait désignés parmi les fils d’Israël, un homme par tribu,"
+                    },
+                    {
+                        "number": 5,
+                        "text": "et leur dit : « Passez devant l’arche du Seigneur votre Dieu, au milieu du Jourdain, et que chacun charge sur son épaule une pierre, suivant le nombre des tribus des fils d’Israël,"
+                    },
+                    {
+                        "number": 6,
+                        "text": "pour en faire un signe au milieu de vous. Et quand, demain, vos fils demanderont : “Que signifient pour vous ces pierres ?”,"
+                    },
+                    {
+                        "number": 7,
+                        "text": "vous répondrez : “Les eaux du Jourdain se sont séparées devant l’arche de l’Alliance du Seigneur quand elle passa dans le Jourdain. Les eaux du Jourdain ont été séparées, et ces pierres deviendront un mémorial pour les fils d’Israël à jamais”. »"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Les fils d’Israël firent ce que Josué leur avait ordonné : ils enlevèrent douze pierres du milieu du Jourdain, selon le nombre des tribus des fils d’Israël, comme le Seigneur l’avait dit à Josué. Ils les transportèrent avec eux et les déposèrent au campement."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Josué fit dresser douze pierres au milieu du Jourdain, à l’endroit même où les prêtres qui portaient l’arche d’Alliance avaient posé les pieds, et elles y sont restées jusqu’à ce jour."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Les prêtres qui portaient l’arche d’Alliance restèrent debout au milieu du Jourdain jusqu’au plein accomplissement de tout ce que le Seigneur avait commandé à Josué de dire au peuple, selon tout ce que Moïse avait commandé à Josué, et le peuple se dépêcha de passer."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Et quand tout le peuple eut fini de passer, l’arche du Seigneur passa avec les prêtres et reprit sa place en tête du peuple."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Les fils de Roubène, les fils de Gad et la demi-tribu de Manassé ouvrirent la marche devant les fils d’Israël, en ordre de bataille, selon ce que leur avait dit Moïse."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Environ quarante mille hommes, équipés pour la guerre, passèrent devant le Seigneur, prêts au combat, vers les steppes de Jéricho."
+                    },
+                    {
+                        "number": 14,
+                        "text": "En ce jour-là, le Seigneur grandit Josué aux yeux de tout Israël, et on le craignit comme on avait craint Moïse, tous les jours de sa vie."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Le Seigneur dit à Josué :"
+                    },
+                    {
+                        "number": 16,
+                        "text": "« Ordonne aux prêtres qui portent l’arche du Témoignage de remonter du Jourdain. »"
+                    },
+                    {
+                        "number": 17,
+                        "text": "Et Josué ordonna aux prêtres : « Remontez du Jourdain. »"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Or, dès que les prêtres qui portaient l’arche de l’Alliance du Seigneur remontèrent du milieu du Jourdain – dès qu’ils en détachèrent la plante de leurs pieds pour gagner la terre sèche –, les eaux du Jourdain reprirent leur place et coulèrent, comme auparavant, tout au long de ses rives."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Le peuple remonta du Jourdain le dix du premier mois. Ils campèrent à Guilgal, à l’extrémité orientale de Jéricho."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Quant aux douze pierres qu’ils avaient enlevées du Jourdain, Josué les dressa à Guilgal."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Puis il dit aux fils d’Israël : « Quand, demain, vos fils demanderont à leurs pères : “Que signifient ces pierres ?”,"
+                    },
+                    {
+                        "number": 22,
+                        "text": "vous leur expliquerez : “C’est à pied sec qu’Israël a passé le Jourdain que voici."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Le Seigneur votre Dieu a mis à sec devant vous les eaux du Jourdain jusqu’à ce que vous ayez passé, comme le Seigneur votre Dieu l’avait fait en asséchant devant nous la mer des Roseaux jusqu’à ce que nous ayons passé."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Ainsi, tous les peuples de la terre sauront combien est forte la main du Seigneur, et vous craindrez le Seigneur votre Dieu chaque jour.” »"
+                    }
+                ]
+            },
+            {
+                "number": 5,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Or, tous les rois des Amorites à l’ouest du Jourdain, et tous les rois des Cananéens, près de la mer, apprirent que le Seigneur avait mis à sec les eaux du Jourdain devant les fils d’Israël jusqu’à ce qu’ils aient passé ; alors leur courage fondit et ils perdirent le souffle devant les fils d’Israël."
+                    },
+                    {
+                        "number": 2,
+                        "text": "En ce temps-là, le Seigneur dit à Josué : « Fais-toi des couteaux de silex et circoncis la deuxième génération des fils d’Israël. »"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Josué se fit des couteaux de silex et circoncit les fils d’Israël sur la colline des Prépuces."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Voici pourquoi Josué les circoncit : tout le peuple qui était sorti d’Égypte, les mâles, tous les hommes de guerre, étaient morts dans le désert, en chemin, après leur sortie d’Égypte."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Tout le peuple sorti d’Égypte avait été circoncis, mais tout le peuple né dans le désert, en chemin, après leur sortie d’Égypte, n’avait pas été circoncis."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Car, pendant quarante ans, les fils d’Israël avaient marché dans le désert, jusqu’à ce que tombent tous les hommes de guerre sortis d’Égypte : ils n’avaient pas écouté la voix du Seigneur. Et le Seigneur avait juré de ne pas leur laisser voir la terre qu’il avait promis à leurs pères de nous donner, une terre ruisselant de lait et de miel."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Leurs fils, il les établit à leur place. Ce sont eux que Josué circoncit : ils étaient en effet incirconcis, puisqu’on ne les avait pas circoncis en chemin."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Lorsqu’on eut achevé de circoncire toute la nation, ils restèrent sur place, dans le camp, jusqu’à leur guérison."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Et le Seigneur dit à Josué : « Aujourd’hui, j’ai enlevé de vous le déshonneur de l’Égypte. » Et l’on appela ce lieu du nom de Guilgal jusqu’à ce jour."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Les fils d’Israël campèrent à Guilgal et célébrèrent la Pâque le quatorzième jour du mois, vers le soir, dans la plaine de Jéricho."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Le lendemain de la Pâque, en ce jour même, ils mangèrent les produits de cette terre : des pains sans levain et des épis grillés."
+                    },
+                    {
+                        "number": 12,
+                        "text": "À partir de ce jour, la manne cessa de tomber, puisqu’ils mangeaient des produits de la terre. Il n’y avait plus de manne pour les fils d’Israël, qui mangèrent cette année-là ce qu’ils récoltèrent sur la terre de Canaan."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Un jour où Josué était à Jéricho, en levant les yeux il vit un homme debout devant lui, une épée nue à la main. Josué alla vers lui et lui dit : « Es-tu pour nous ou pour nos adversaires ? »"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Il répondit : « Ni l’un ni l’autre, car je suis le chef de l’armée du Seigneur. Maintenant, me voici ! » Alors Josué tomba face contre terre, se prosterna et lui demanda : « Que dit mon seigneur à son serviteur ? »"
+                    },
+                    {
+                        "number": 15,
+                        "text": "Le chef de l’armée du Seigneur dit à Josué : « Retire tes sandales de tes pieds : le lieu où tu te trouves est saint. » Et Josué fit ainsi."
+                    }
+                ]
+            },
+            {
+                "number": 6,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Jéricho était fermée, enfermée à cause des fils d’Israël : nul ne sortait et nul n’entrait."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Le Seigneur dit à Josué : « Regarde, je livre entre tes mains Jéricho, son roi et ses meilleurs guerriers."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Vous, tous les hommes de guerre, vous ferez le tour de la ville. Vous tournerez une fois, et tu feras de même six jours durant."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Devant l’arche, sept prêtres porteront sept trompes en corne de bélier. Le septième jour, vous ferez sept fois le tour de la ville, et les prêtres sonneront du cor."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Quand retentira la corne de bélier – quand vous entendrez le son du cor –, tout le peuple poussera une grande clameur ; alors, le rempart de la ville s’effondrera sur place et le peuple montera à l’assaut, chacun droit devant soi. »"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Josué, fils de Noun, appela les prêtres et leur dit : « Portez l’arche d’Alliance, et que sept prêtres portent sept trompes en corne de bélier devant l’arche du Seigneur. »"
+                    },
+                    {
+                        "number": 7,
+                        "text": "Il dit au peuple : « Passez, faites le tour de la ville, et que l’avant-garde passe devant l’arche du Seigneur. »"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Selon les paroles de Josué au peuple, les sept prêtres, portant les sept trompes en corne de bélier devant le Seigneur, passèrent en sonnant du cor. L’arche de l’Alliance du Seigneur les suivait."
+                    },
+                    {
+                        "number": 9,
+                        "text": "L’avant-garde marchait devant les prêtres qui sonnaient du cor, l’arrière-garde suivait l’arche. On marchait et on sonnait du cor."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Josué avait donné cet ordre au peuple : « Vous ne pousserez aucune clameur, vous ne ferez pas entendre votre voix, aucune parole ne sortira de votre bouche, jusqu’au jour où je vous dirai : “Poussez une clameur !” Alors, vous pousserez une clameur. »"
+                    },
+                    {
+                        "number": 11,
+                        "text": "L’arche du Seigneur fit le tour de la ville, elle tourna une fois. Puis on rentra au camp pour y passer la nuit."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Josué se leva de bon matin, et les prêtres portèrent l’arche du Seigneur."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Les sept prêtres, portant les sept trompes en corne de bélier, marchaient devant l’arche du Seigneur en sonnant du cor. L’avant-garde marchait devant eux, l’arrière-garde suivait l’arche du Seigneur : on marchait en sonnant du cor."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Le second jour, ils firent une fois le tour de la ville ; puis ils revinrent au camp. Ils firent ainsi pendant six jours."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Le septième jour, ils se levèrent dès l’aurore. Ils firent le tour de la ville, sept fois, selon le même rite. Ce jour-là seulement, ils firent sept fois le tour de la ville."
+                    },
+                    {
+                        "number": 16,
+                        "text": "La septième fois, alors que les prêtres sonnaient du cor, Josué dit au peuple : « Poussez une clameur, le Seigneur vous a livré la ville !"
+                    },
+                    {
+                        "number": 17,
+                        "text": "La ville sera vouée à l’anathème pour le Seigneur, elle et tout ce qui s’y trouve. Seule vivra Rahab, la prostituée, elle et tous ceux qui seront avec elle dans la maison, car elle a caché les messagers que nous avons envoyés."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Mais vous, veillez à éviter l’anathème, de peur que, prenant de ce qui est anathème, vous ne rendiez anathème le camp d’Israël et n’y semiez la confusion."
+                    },
+                    {
+                        "number": 19,
+                        "text": "L’argent, l’or, les objets de bronze et de fer, tout sera consacré au Seigneur et entrera dans le trésor du Seigneur. »"
+                    },
+                    {
+                        "number": 20,
+                        "text": "Le peuple poussa la clameur et on sonna du cor. Lorsque le peuple entendit le son du cor, il poussa une grande clameur, et le rempart s’effondra sur place. Alors le peuple monta vers la ville, chacun droit devant soi, et ils s’emparèrent de la ville."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Ils vouèrent à l’anathème tout ce qui se trouvait dans la ville, l’homme comme la femme, le jeune comme le vieillard, de même que le bœuf, le mouton et l’âne, les passant tous au fil de l’épée."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Josué dit aux deux hommes qui avaient espionné le pays : « Entrez dans la maison de la prostituée, faites sortir de là cette femme et tout ce qui est à elle, comme vous le lui aviez juré. »"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Les jeunes gens qui avaient espionné entrèrent. Ils firent sortir Rahab, son père, sa mère, ses frères et tout ce qui était à elle. Ils firent sortir tout son clan et les installèrent hors du camp d’Israël."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Alors, on incendia la ville et tout ce qui s’y trouvait, sauf l’argent, l’or et les objets de bronze et de fer : on les donna au trésor de la Maison du Seigneur."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Mais Josué laissa en vie Rahab, la prostituée, ainsi que la maison de son père et tout ce qui était à elle. Elle a habité au milieu d’Israël jusqu’à ce jour, parce qu’elle avait caché les messagers envoyés par Josué pour espionner Jéricho."
+                    },
+                    {
+                        "number": 26,
+                        "text": "En ce temps-là, Josué fit prononcer ce serment : « Maudit soit devant le Seigneur l’homme qui se lèvera pour rebâtir cette ville, Jéricho ! Au prix de son premier-né, il en posera les fondations ; au prix de son cadet, il en fixera les portes ! »"
+                    },
+                    {
+                        "number": 27,
+                        "text": "Le Seigneur était avec Josué, et sa renommée s’étendit à tout le pays."
+                    }
+                ]
+            },
+            {
+                "number": 7,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Mais les fils d’Israël transgressèrent l’anathème : Akane, fils de Karmi, fils de Zabdi, fils de Zèrah, de la tribu de Juda, prit ce qui était voué à l’anathème, et la colère du Seigneur s’enflamma contre les fils d’Israël."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Depuis Jéricho, Josué envoya des hommes à la ville de Aï, près de Beth-Awen, à l’est de Béthel, et leur dit : « Montez espionner le pays. » Ces hommes montèrent espionner Aï."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Ils revinrent dire à Josué : « Que le peuple ne monte pas tout entier ! Deux ou trois mille hommes monteront, et ils battront Aï. Ne fatigue pas là tout le peuple, car ces gens sont peu nombreux. »"
+                    },
+                    {
+                        "number": 4,
+                        "text": "Trois mille hommes du peuple environ montèrent à Béthel, mais ils s’enfuirent devant les hommes de Aï."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Les hommes de Aï tuèrent environ trente-six hommes ; ils poursuivirent les autres au-delà de la porte de la ville, jusqu’à Shebarim, et les battirent dans la descente. Alors, le peuple perdit courage, et son cœur fondit."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Josué déchira ses vêtements ; devant l’arche du Seigneur, il tomba face contre terre ; lui et les anciens d’Israël y restèrent jusqu’au soir. Ils répandirent de la poussière sur leur tête."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Alors Josué dit : « Ah ! Seigneur Dieu, pourquoi as-tu forcé ce peuple à passer le Jourdain ? Est-ce pour nous livrer aux mains des Amorites et nous faire périr ? Si seulement nous avions décidé de rester en deçà du Jourdain !"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Je t’en prie, Seigneur, que puis-je dire, maintenant qu’Israël a battu en retraite devant ses ennemis ?"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Les Cananéens et tous les habitants du pays l’apprendront. Ils se tourneront contre nous pour retrancher notre nom de la terre. Que pourras-tu faire alors pour ton grand nom ? »"
+                    },
+                    {
+                        "number": 10,
+                        "text": "Le Seigneur dit à Josué : « Relève-toi ! Pourquoi rester effondré ?"
+                    },
+                    {
+                        "number": 11,
+                        "text": "Israël a péché ; ils ont transgressé l’alliance que je leur avais prescrite, et même ils ont pris ce qui était voué à l’anathème, ils l’ont volé, dissimulé et mis dans leurs affaires."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Les fils d’Israël ne pourront pas faire face à leurs ennemis, ils battront en retraite : à présent, ils sont devenus anathèmes. Je cesserai d’être avec vous si vous n’éliminez pas du milieu de vous celui qui est devenu anathème."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Lève-toi, sanctifie le peuple. Tu diras : “Sanctifiez-vous pour demain, car ainsi parle le Seigneur, Dieu d’Israël : Un anathème est au milieu de toi, Israël. Tu ne pourras pas faire face à tes ennemis, tant que vous n’aurez pas écarté l’anathème du milieu de vous.”"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Au matin, vous vous approcherez par tribus. Et la tribu que le Seigneur aura désignée s’approchera par clans. Et le clan que le Seigneur aura désigné s’approchera par familles. Et la famille que le Seigneur aura désignée s’approchera, homme par homme."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Celui qui sera désigné comme anathème sera brûlé, lui et tout ce qui lui appartient, puisqu’il a transgressé l’alliance du Seigneur et commis en Israël un acte insensé. »"
+                    },
+                    {
+                        "number": 16,
+                        "text": "De bon matin, Josué se leva et fit approcher Israël par tribus : la tribu de Juda fut désignée."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Il fit approcher les clans de Juda : le clan des Zarhites fut désigné. Il fit approcher le clan des Zarhites, homme par homme : Zabdi fut désigné."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Alors, il fit approcher sa famille, homme par homme : Akane, fils de Karmi, fils de Zabdi, fils de Zèrah, de la tribu de Juda, fut désigné."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Josué dit à Akane : « Mon fils, glorifie le Seigneur, Dieu d’Israël, et rends-lui grâce ; révèle-moi ce que tu as fait, ne me cache rien. »"
+                    },
+                    {
+                        "number": 20,
+                        "text": "Akane répondit à Josué : « En vérité, c’est moi qui ai péché contre le Seigneur, Dieu d’Israël. J’ai agi de cette manière :"
+                    },
+                    {
+                        "number": 21,
+                        "text": "j’ai vu dans le butin un beau manteau de Mésopotamie, deux cents pièces d’argent et un lingot d’or d’une valeur de cinquante pièces. J’en ai eu envie ; je les ai pris ; ils sont cachés dans la terre au milieu de ma tente, et l’argent est dessous. »"
+                    },
+                    {
+                        "number": 22,
+                        "text": "Josué envoya des messagers qui coururent à la tente : le manteau était caché dans la tente d’Akane et l’argent en dessous."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Ils les reprirent dans la tente et les rapportèrent à Josué et à tous les fils d’Israël. On les déposa devant le Seigneur."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Josué saisit Akane, fils de Zèrah, avec l’argent, le manteau et le lingot d’or, ainsi que ses fils et ses filles, son bœuf, son âne, son petit bétail, sa tente et tout ce qui lui appartenait. Tout Israël accompagnait Josué. On les fit monter au Val d’Akor."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Josué dit : « Pourquoi as-tu semé chez nous la confusion ? Que le Seigneur te confonde aujourd’hui ! » Tout Israël le lapida, on les brûla, on leur jeta des pierres."
+                    },
+                    {
+                        "number": 26,
+                        "text": "Ils élevèrent sur lui un grand tas de pierres. Alors, le Seigneur revint de son ardente colère. Voilà pourquoi on a appelé ce lieu du nom de Val d’Akor (c’est-à-dire : Val-de-Confusion). Il l’a porté jusqu’à ce jour."
+                    }
+                ]
+            },
+            {
+                "number": 8,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Le Seigneur dit à Josué : « Ne crains pas, ne t’effraie pas ! Prends avec toi tout le peuple en armes. Lève-toi, monte vers la ville de Aï ! Regarde : je livre entre tes mains le roi de Aï, son peuple, sa ville et son pays."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Tu traiteras Aï et son roi comme tu as traité Jéricho et son roi. Toutefois, vous pourrez la dépouiller de ses richesses et de son bétail. Veille à placer une embuscade contre la ville, à l’arrière. »"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Josué se leva avec tout le peuple en armes pour monter contre Aï. Josué choisit trente mille hommes, des guerriers de valeur. Il les fit partir de nuit."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Il leur donna cet ordre : « Attention ! vous resterez en embuscade contre la ville, par-derrière ; ne vous en éloignez pas trop et, tous, tenez-vous prêts."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Moi et tous les gens qui sont avec moi, nous approcherons de la ville. Et quand ils sortiront à notre rencontre comme la première fois, nous fuirons devant eux."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Ils sortiront derrière nous, et nous les attirerons loin de la ville, car ils se diront : “Ils fuient devant nous comme la première fois”, et nous fuirons devant eux."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Alors vous, vous surgirez de l’embuscade et vous occuperez la ville : le Seigneur votre Dieu la livre entre vos mains."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Quand vous tiendrez la ville, vous y mettrez le feu ; vous agirez selon la parole du Seigneur. Voilà l’ordre que je vous donne. »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Josué les envoya. Ils gagnèrent le lieu de l’embuscade. Ils prirent position entre Béthel et Aï, à l’ouest de Aï. Josué passa cette nuit-là au milieu de la troupe."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Josué se leva de bon matin et passa la troupe en revue. Puis il monta contre Aï avec les anciens d’Israël, en avant de la troupe."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Tout le peuple en armes qui était avec lui monta, s’avança et arriva en face de la ville. Ils campèrent au nord de Aï. Entre Aï et Josué, il y avait un vallon."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Josué prit environ cinq mille hommes et les plaça en embuscade entre Béthel et Aï, à l’ouest de la ville."
+                    },
+                    {
+                        "number": 13,
+                        "text": "La troupe installa son camp au nord de la ville et son arrière-garde à l’ouest de la ville. Josué passa cette nuit-là au milieu de la vallée."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Quand le roi de Aï vit cela, les hommes de la ville se levèrent en hâte, dès le matin, et ils sortirent, lui et tout son peuple, à la rencontre d’Israël pour le combattre, au lieu prévu, face à la Araba. Ils ne savaient pas que, derrière eux, il y avait une embuscade à l’arrière de la ville."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Josué et tout Israël se firent battre par eux et s’enfuirent vers le désert."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Alors, tous les gens qui étaient dans la ville se mobilisèrent pour les poursuivre. Ils poursuivirent donc Josué et furent attirés loin de la ville."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Dans Aï et dans Béthel, il ne resta pas un homme qui ne fût sorti derrière Israël ; ils avaient laissé la ville ouverte et ils poursuivaient Israël !"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Le Seigneur dit à Josué : « Tends vers Aï le javelot que tu as à la main : je te la livre. » Josué tendit vers la ville le javelot qu’il tenait et,"
+                    },
+                    {
+                        "number": 19,
+                        "text": "dès qu’il eut tendu la main, les hommes de l’embuscade surgirent de leur position, ils coururent, entrèrent dans la ville, s’en emparèrent et y mirent immédiatement le feu."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Alors, se retournant, les hommes de Aï virent la fumée de la ville monter dans le ciel. Ils ne pouvaient plus fuir, ni d’un côté ni de l’autre, puisqu’à ce moment la troupe qui fuyait vers le désert fit volte-face vers ceux qui la poursuivaient."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Josué et tout Israël avaient vu que les hommes de l’embuscade s’étaient emparés de la ville : en effet la fumée montait de la ville. Ils se retournèrent pour attaquer les hommes de Aï."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Les autres sortirent de la ville à leur rencontre, et les hommes de Aï se trouvèrent au milieu, avec les fils d’Israël d’un côté et de l’autre. Ceux-ci les frappèrent jusqu’à ce qu’il ne reste ni survivant ni rescapé."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Quant au roi de Aï, on le saisit vivant et on l’amena à Josué."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Lorsqu’Israël eut achevé de tuer tous les habitants de Aï dans la campagne, dans le désert où ils avaient été poursuivis, lorsque tous, jusqu’au dernier, furent tombés sous le fil de l’épée, tout Israël revint vers Aï et la passa au fil de l’épée."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Au total, douze mille hommes et femmes tombèrent ce jour-là, tous les habitants de Aï."
+                    },
+                    {
+                        "number": 26,
+                        "text": "Josué ne rabaissa pas la main qui tendait le javelot jusqu’à l’accomplissement de l’anathème contre tous les habitants de Aï."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Israël prit seulement comme butin pour lui le bétail et les richesses de la ville, selon l’ordre donné par le Seigneur à Josué."
+                    },
+                    {
+                        "number": 28,
+                        "text": "Alors, Josué brûla Aï et en fit une ruine pour toujours, un lieu désolé jusqu’à ce jour."
+                    },
+                    {
+                        "number": 29,
+                        "text": "Quant au roi de Aï, il le pendit à un arbre et le laissa jusqu’au soir. Mais au coucher du soleil, Josué ordonna de descendre le cadavre de l’arbre : on le jeta à l’entrée de la porte de la ville. On éleva sur lui un monceau de pierres, qui existe jusqu’à ce jour."
+                    },
+                    {
+                        "number": 30,
+                        "text": "Josué bâtit un autel au Seigneur, Dieu d’Israël, sur le mont Ébal."
+                    },
+                    {
+                        "number": 31,
+                        "text": "Moïse, serviteur du Seigneur, en avait donné l’ordre aux fils d’Israël. En effet, il est écrit dans le livre de la Loi de Moïse : Tu feras un autel de pierres brutes, c’est-à-dire non taillées par le fer. Sur cet autel, ils offrirent au Seigneur des holocaustes et des sacrifices de paix."
+                    },
+                    {
+                        "number": 32,
+                        "text": "Là, Josué écrivit sur des pierres une copie de la Loi que Moïse avait écrite en présence des fils d’Israël."
+                    },
+                    {
+                        "number": 33,
+                        "text": "En face des prêtres lévites qui portaient l’arche de l’Alliance du Seigneur, tout Israël, ses anciens, ses scribes et ses juges, tous, Israélites de souche et immigrés, se rangèrent de part et d’autre de l’arche, les uns du côté du mont Garizim, les autres du côté du mont Ébal, pour que le peuple d’Israël reçoive d’abord la bénédiction comme Moïse, serviteur du Seigneur, en avait donné l’ordre."
+                    },
+                    {
+                        "number": 34,
+                        "text": "Puis Josué lut toutes les paroles de la Loi, bénédictions et malédictions, tout ce qui est écrit dans le livre de la Loi."
+                    },
+                    {
+                        "number": 35,
+                        "text": "De tout ce que Moïse avait commandé, il n’y a pas une parole qui n’ait été lue par Josué en présence de toute l’assemblée d’Israël, y compris les femmes et les enfants, ainsi que les immigrés qui vivaient au milieu du peuple."
+                    }
+                ]
+            },
+            {
+                "number": 9,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "En apprenant cela, tous les rois qui étaient au-delà du Jourdain, dans la montagne, dans le Bas-Pays et sur toute la côte de la Méditerranée, vers le Liban – Hittites, Amorites, Cananéens, Perizzites, Hivvites, Jébuséens –,"
+                    },
+                    {
+                        "number": 2,
+                        "text": "se coalisèrent pour combattre Josué et Israël d’un commun accord."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Les habitants de Gabaon apprirent ce que Josué avait fait à Jéricho et à Aï."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Eux aussi agirent par ruse : ils se déguisèrent, chargèrent leurs ânes de sacs usés et de vieilles outres à vin usées, déchirées, raccommodées."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Ils mirent à leurs pieds de vieilles sandales rapiécées et sur eux des vêtements usagés. Tout le pain de leurs provisions était sec et en miettes."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Ils allèrent trouver Josué au camp de Guilgal et lui dirent, ainsi qu’aux hommes d’Israël : « Nous venons d’un pays lointain. Concluez une alliance avec nous, maintenant. »"
+                    },
+                    {
+                        "number": 7,
+                        "text": "Les hommes d’Israël répondirent aux Hivvites : « Peut-être habitez-vous au milieu de nous. Dans ce cas, comment conclure une alliance avec vous ? »"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Ils répondirent à Josué : « Nous sommes tes serviteurs. » Mais Josué leur demanda : « Qui êtes-vous ? D’où venez-vous ? »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Ils répondirent : « Tes serviteurs viennent d’un pays très lointain, à cause de la renommée du Seigneur ton Dieu. En effet, nous avons entendu parler de tout ce qu’il a fait en Égypte"
+                    },
+                    {
+                        "number": 10,
+                        "text": "et de tout ce qu’il a fait aux deux rois des Amorites qui vivaient au-delà du Jourdain, Séhone, roi de Heshbone, et Og, roi de Bashane, qui vivait à Ashtaroth."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Nos anciens et tous les habitants de notre pays nous ont dit : “Prenez des provisions pour la route et allez au-devant d’eux. Vous leur direz : Nous sommes vos serviteurs.” Concluez une alliance avec nous, maintenant."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Voyez notre pain : il était encore chaud quand nous en avons fait provision dans nos maisons, le jour de notre départ vers vous. Maintenant il est sec et en miettes."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Ces outres de vin, elles étaient neuves quand nous les avons remplies. Les voilà déchirées. Nos vêtements et nos sandales, les voici usés par un très long voyage. »"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Les gens d’Israël acceptèrent leurs provisions sans consulter l’oracle du Seigneur."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Josué leur accorda la paix et conclut avec eux une alliance pour qu’ils aient la vie sauve. Les responsables de la communauté leur en firent serment."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Or, trois jours après avoir conclu cette alliance, ils apprirent qu’ils étaient des voisins et habitaient au milieu d’eux."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Les fils d’Israël partirent et, le troisième jour, entrèrent dans leurs villes. Leurs villes étaient Gabaon, Kefira, Beéroth et Qiryath-Yearim."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Les fils d’Israël ne les tuèrent pas, puisque les responsables de la communauté leur avaient fait ce serment par le Seigneur, Dieu d’Israël. Mais toute la communauté récrimina contre les responsables."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Tous les responsables dirent à toute la communauté : « Nous, nous leur avons prêté serment par le Seigneur, Dieu d’Israël ; maintenant nous ne pouvons plus leur faire de mal."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Voici ce que nous ferons : nous leur laisserons la vie, pour que la colère de Dieu ne nous atteigne pas à cause du serment que nous leur avons fait. »"
+                    },
+                    {
+                        "number": 21,
+                        "text": "Les responsables ajoutèrent : « Qu’ils vivent, mais soient fendeurs de bois et porteurs d’eau pour toute la communauté ! » Ainsi parlèrent les responsables."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Josué appela les Gabaonites et leur dit : « Pourquoi nous avoir trompés en disant “Nous habitons très loin”, alors que vous habitez au milieu de nous ?"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Maintenant, vous êtes maudits. Vous ne cesserez plus de servir comme fendeurs de bois et porteurs d’eau, pour la Maison de mon Dieu. »"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Ils firent à Josué cette réponse : « Tes serviteurs ont tellement entendu que le Seigneur ton Dieu avait ordonné à son serviteur Moïse de vous livrer tout le pays et d’exterminer tous ses habitants devant vous que, devant vous, nous avons eu très peur pour nos vies ; c’est pourquoi nous avons agi de la sorte."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Maintenant, nous sommes entre tes mains ; traite-nous selon ce qu’il est, à tes yeux, juste et bon de nous faire ! »"
+                    },
+                    {
+                        "number": 26,
+                        "text": "Josué les traita ainsi : il les délivra de la main des fils d’Israël, qui ne les tuèrent pas."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Ce jour-là, Josué les établit comme fendeurs de bois et porteurs d’eau au service de la communauté et de l’autel du Seigneur jusqu’à ce jour, au lieu que le Seigneur choisirait."
+                    }
+                ]
+            },
+            {
+                "number": 10,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Or, Adoni-Sédeq, roi de Jérusalem, apprit que Josué s’était emparé de Aï et l’avait vouée à l’anathème, qu’il avait traité Aï et son roi comme il avait traité Jéricho et son roi, et que les habitants de Gabaon avaient fait la paix avec Israël et habitaient au milieu d’eux."
+                    },
+                    {
+                        "number": 2,
+                        "text": "On eut alors très peur : Gabaon était une grande ville, comme l’une des villes royales ; elle était plus grande que Aï, et tous ses hommes étaient des guerriers."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Adoni-Sédeq, roi de Jérusalem, envoya dire à Hohame, roi d’Hébron, à Piréame, roi de Yarmouth, à Yafia, roi de Lakish, et à Debir, roi d’Églone :"
+                    },
+                    {
+                        "number": 4,
+                        "text": "« Montez jusqu’à moi, et aidez-moi pour que nous battions Gabaon, parce que cette ville a fait la paix avec Josué et les fils d’Israël ! »"
+                    },
+                    {
+                        "number": 5,
+                        "text": "Les cinq rois amorites se liguèrent : le roi de Jérusalem, le roi d’Hébron, le roi de Yarmouth, le roi de Lakish et le roi d’Églone. Ils montèrent avec toutes leurs troupes pour assiéger Gabaon et lui faire la guerre."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Les hommes de Gabaon envoyèrent dire à Josué, au camp de Guilgal : « Ne cesse pas de prêter main-forte à tes serviteurs. Monte rapidement vers nous, sauve-nous, aide-nous, car tous les rois amorites habitant la montagne se sont coalisés contre nous. »"
+                    },
+                    {
+                        "number": 7,
+                        "text": "Josué monta depuis Guilgal, avec tout le peuple en armes et tous les guerriers de valeur."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Le Seigneur dit à Josué : « Ne les crains pas : je les livre entre tes mains. Pas un seul ne tiendra devant toi. »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Josué arriva sur eux à l’improviste : durant toute la nuit il était monté depuis Guilgal."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Le Seigneur les frappa de panique devant Israël et leur infligea à Gabaon une lourde défaite. Il les poursuivit même dans la montée de Beth-Horone, les battit jusqu’à Azéqa et jusqu’à Maqqéda."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Or, tandis qu’ils fuyaient devant Israël dans la descente de Beth-Horone, le Seigneur lança du ciel contre eux de grosses pierres, jusqu’à Azéqa, et ils moururent. Ils moururent plus nombreux sous les pierres de grêle que les fils d’Israël n’en tuèrent par l’épée."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Alors, Josué parla au Seigneur, en ce jour où le Seigneur livra les Amorites aux fils d’Israël et, sous les yeux d’Israël, il déclara : « Soleil, arrête-toi sur Gabaon, lune, sur la vallée d’Ayyalone ! »"
+                    },
+                    {
+                        "number": 13,
+                        "text": "Et le soleil s’arrêta, et la lune resta immobile, jusqu’à ce que le peuple fût vengé de ses ennemis. Ceci n’est-il pas écrit dans le livre du Juste ? Le soleil s’arrêta au milieu du ciel, il ne se hâta pas de se coucher pendant un jour entier."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Il n’y eut pas de jour comme celui-là, ni avant lui, ni après lui, ce jour où le Seigneur obéit à la voix d’un homme, car le Seigneur combattait pour Israël !"
+                    },
+                    {
+                        "number": 15,
+                        "text": "Josué, et avec lui tout Israël, revint au camp de Guilgal."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Les cinq rois avaient fui et s’étaient cachés dans la grotte de Maqqéda."
+                    },
+                    {
+                        "number": 17,
+                        "text": "On vint prévenir Josué : « Les cinq rois ont été retrouvés cachés dans la grotte de Maqqéda. »"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Josué dit : « Roulez de grosses pierres à l’entrée de la grotte et postez près d’elle des hommes pour les garder."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Mais vous, ne vous arrêtez pas, poursuivez vos ennemis et coupez leur retraite ; ne les laissez pas rentrer dans leurs villes, car le Seigneur votre Dieu les livre entre vos mains. »"
+                    },
+                    {
+                        "number": 20,
+                        "text": "Josué et les fils d’Israël achevèrent de leur infliger une lourde défaite, jusqu’à leur complète disparition ; les rescapés s’enfuirent et entrèrent dans les villes fortes."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Tout le peuple revint au camp près de Josué, à Maqqéda, sain et sauf ; et personne ne provoqua plus les fils d’Israël."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Alors Josué dit : « Ouvrez l’entrée de la grotte et faites-en sortir, devant moi, les cinq rois. »"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Ainsi fut fait, et devant lui on fit sortir de la grotte les cinq rois : le roi de Jérusalem, le roi d’Hébron, le roi de Yarmouth, le roi de Lakish et le roi d’Églone."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Quand on eut fait sortir ces rois devant Josué, il appela tous les hommes d’Israël et dit aux commandants des hommes de guerre qui l’avaient accompagné : « Approchez, posez votre pied sur le cou de ces rois ! » Ils s’approchèrent et posèrent le pied sur le cou des rois."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Josué leur dit : « Ne craignez pas, ne vous effrayez pas ! Soyez forts et courageux : le Seigneur traitera ainsi tous les ennemis que vous combattrez. »"
+                    },
+                    {
+                        "number": 26,
+                        "text": "Puis Josué frappa les rois, les mit à mort et on les pendit à cinq arbres ; ils y restèrent pendus jusqu’au soir."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Au coucher du soleil, Josué commanda de les descendre des arbres et de les jeter dans la grotte où ils s’étaient cachés. On plaça de grosses pierres à l’entrée de la grotte. Elles y sont restées jusqu’à ce jour même."
+                    },
+                    {
+                        "number": 28,
+                        "text": "En ce jour-là, Josué s’empara de Maqqéda et la passa au fil de l’épée, ainsi que son roi. Il les voua à l’anathème, avec toutes les personnes qui s’y trouvaient ; il ne laissa pas un survivant, et il traita le roi de Maqqéda comme il avait traité le roi de Jéricho."
+                    },
+                    {
+                        "number": 29,
+                        "text": "Puis Josué, avec tout Israël, passa de Maqqéda à Libna ; il engagea le combat avec Libna."
+                    },
+                    {
+                        "number": 30,
+                        "text": "Le Seigneur la livra aussi, avec son roi, aux mains d’Israël qui la passa au fil de l’épée avec toutes les personnes qui s’y trouvaient. Il ne laissa pas un survivant, et il traita son roi comme il avait traité le roi de Jéricho."
+                    },
+                    {
+                        "number": 31,
+                        "text": "Josué, avec tout Israël, passa de Libna à Lakish ; il l’assiégea et la combattit."
+                    },
+                    {
+                        "number": 32,
+                        "text": "Le Seigneur livra Lakish aux mains d’Israël, qui s’en empara le second jour, la passa au fil de l’épée avec toutes les personnes qui s’y trouvaient, tout comme à Libna."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Alors, Horam, roi de Guèzer, monta secourir Lakish. Mais Josué le battit, ainsi que son peuple, si bien qu’il ne lui laissa pas un survivant."
+                    },
+                    {
+                        "number": 34,
+                        "text": "Josué, avec tout Israël, passa de Lakish à Églone. Ils l’assiégèrent et la combattirent."
+                    },
+                    {
+                        "number": 35,
+                        "text": "Ils s’en emparèrent le jour même et la passèrent au fil de l’épée. Il voua à l’anathème toutes les personnes qui s’y trouvaient ce jour-là, comme il avait traité Lakish."
+                    },
+                    {
+                        "number": 36,
+                        "text": "Josué, avec tout Israël, monta d’Églone à Hébron. Ils la combattirent,"
+                    },
+                    {
+                        "number": 37,
+                        "text": "s’en emparèrent et la passèrent au fil de l’épée, ainsi que son roi, toutes ses villes et toutes les personnes qui s’y trouvaient. Il ne laissa pas un survivant, tout comme il avait fait pour Églone. Il la voua à l’anathème avec toutes les personnes qui s’y trouvaient."
+                    },
+                    {
+                        "number": 38,
+                        "text": "Josué, avec tout Israël, se tourna vers Debir et la combattit."
+                    },
+                    {
+                        "number": 39,
+                        "text": "Il s’en empara, ainsi que de son roi et de toutes ses villes. Ils les passèrent au fil de l’épée et vouèrent à l’anathème toutes les personnes qui s’y trouvaient. Josué ne laissa pas un survivant. Il traita le roi de Debir comme il avait traité Hébron et comme il avait traité Libna et son roi."
+                    },
+                    {
+                        "number": 40,
+                        "text": "Josué battit tout le pays : la montagne, le Néguev, le Bas-Pays, les versants, ainsi que tous leurs rois. Il ne laissa pas un survivant. Il voua à l’anathème tout être vivant, comme l’avait ordonné le Seigneur, Dieu d’Israël."
+                    },
+                    {
+                        "number": 41,
+                        "text": "Josué les battit depuis Cadès-Barnéa jusqu’à Gaza, tout le pays de Goshèn jusqu’à Gabaon."
+                    },
+                    {
+                        "number": 42,
+                        "text": "Josué s’empara de tous ces rois et de leurs pays en une fois, car le Seigneur, Dieu d’Israël, combattait pour Israël."
+                    },
+                    {
+                        "number": 43,
+                        "text": "Puis Josué, avec tout Israël, retourna au camp de Guilgal."
+                    }
+                ]
+            },
+            {
+                "number": 11,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Lorsque Yabine, roi de Haçor, apprit cela, il envoya des messagers à Yobab, roi de Madone, au roi de Shimrone et au roi d’Akshaf,"
+                    },
+                    {
+                        "number": 2,
+                        "text": "aux rois habitant dans la montagne du nord, dans la Araba au sud de Kinaroth dans le Bas-Pays et sur les crêtes de Dor à l’ouest."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Les Cananéens habitaient à l’est et à l’ouest ; les Amorites, les Hittites, les Perizzites et les Jébuséens dans la montagne ; les Hivvites au-dessous de l’Hermon, dans le pays de Mispa."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Ils sortirent donc, et toutes leurs troupes avec eux, peuple innombrable comme est innombrable le sable des rivages de la mer, avec des chevaux et des chars en très grand nombre."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Tous ces rois se donnèrent rendez-vous et vinrent camper ensemble aux eaux de Mérom pour combattre contre Israël."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Le Seigneur dit à Josué : « Ne les crains pas, car demain, à la même heure, je les livrerai tous, criblés de coups, à Israël ; tu couperas les jarrets de leurs chevaux et tu brûleras leurs chars. »"
+                    },
+                    {
+                        "number": 7,
+                        "text": "Josué et tout le peuple en armes les atteignirent à l’improviste, aux eaux de Mérom, et ils tombèrent sur eux."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Le Seigneur les livra aux mains d’Israël qui les battit et les poursuivit jusqu’à Sidon-la-Grande, jusqu’à Misrefoth-Maïm et jusqu’à la vallée de Mispa à l’est. Il les battit au point qu’il ne laissa pas un survivant."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Josué leur fit ce que lui avait dit le Seigneur : il coupa les jarrets de leurs chevaux et brûla leurs chars."
+                    },
+                    {
+                        "number": 10,
+                        "text": "En ce temps-là, Josué revint, s’empara de Haçor et frappa son roi par l’épée : Haçor était auparavant la capitale de tous ces royaumes."
+                    },
+                    {
+                        "number": 11,
+                        "text": "On passa au fil de l’épée toutes les personnes qui s’y trouvaient, on les voua à l’anathème. Il ne resta pas âme qui vive, et l’on brûla Haçor."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Josué s’empara de toutes ces villes et de tous leurs rois ; il les passa au fil de l’épée et les voua à l’anathème, comme l’avait ordonné Moïse, le serviteur du Seigneur."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Mais Israël ne brûla aucune des villes situées sur des collines, sauf Haçor que Josué brûla."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Les fils d’Israël prirent comme butin pour eux toute la richesse de ces villes et le bétail ; mais tous les hommes, ils les passèrent au fil de l’épée, au point de les anéantir : ils ne laissèrent pas âme qui vive."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Comme le Seigneur l’avait ordonné à Moïse son serviteur, ainsi Moïse l’avait ordonné à Josué, et Josué fit de même : il ne s’écarta en rien de tout ce que le Seigneur avait ordonné à Moïse."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Josué prit tout ce pays : la montagne, tout le Néguev, tout le pays du Goshèn, le Bas-Pays, la Araba, la montagne d’Israël et son bas pays."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Depuis le mont Halaq, qui s’élève vers Séïr, jusqu’à Baal-Gad dans la vallée du Liban sous le mont Hermon, il s’empara de tous leurs rois, les battit et les mit à mort."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Durant de longs jours, Josué fit la guerre à tous ces rois."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Pas une ville ne fit la paix avec les fils d’Israël, sauf les Hivvites qui habitaient Gabaon : toutes les autres furent prises par les armes."
+                    },
+                    {
+                        "number": 20,
+                        "text": "En effet, le Seigneur avait fait en sorte qu’ils s’obstinent pour qu’ils engagent la guerre contre Israël, afin de les vouer à l’anathème, sans leur faire grâce. C’était afin de les anéantir, comme le Seigneur l’avait ordonné à Moïse."
+                    },
+                    {
+                        "number": 21,
+                        "text": "En ce temps-là, Josué vint supprimer de la montagne les géants Anaqites, ceux d’Hébron, de Debir, d’Anab, de toute la montagne de Juda et de toute la montagne d’Israël. Josué les voua à l’anathème avec leurs villes."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Il ne resta plus d’Anaqites dans le pays des fils d’Israël. Il n’en subsista qu’à Gaza, Gath et Ashdod."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Josué prit tout le pays, selon tout ce que le Seigneur avait dit à Moïse. Josué le donna en héritage à Israël, le répartissant selon les tribus. Et le pays se reposa de la guerre."
+                    }
+                ]
+            },
+            {
+                "number": 12,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Voici les rois du pays que les fils d’Israël battirent et dont ils conquirent le pays au-delà du Jourdain au soleil levant, depuis le torrent de l’Arnon jusqu’au mont Hermon, avec toute la Araba vers l’est :"
+                    },
+                    {
+                        "number": 2,
+                        "text": "Séhone, roi des Amorites, qui habitait à Heshbone. Il dominait depuis Aroër, au bord du torrent de l’Arnon, au milieu de cette vallée, la moitié de Galaad jusqu’au torrent du Yabboq, frontière des fils d’Ammone ;"
+                    },
+                    {
+                        "number": 3,
+                        "text": "la Araba, jusqu’à la mer de Kinnèreth à l’est et jusqu’à la mer de la Araba, la mer Morte, à l’est, vers Beth-Yeshimoth, et au sud au bas des pentes du Pisga ;"
+                    },
+                    {
+                        "number": 4,
+                        "text": "puis le territoire de Og, roi de Bashane, un survivant des Refaïtes, qui habitait à Ashtaroth et à Édréï."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Il dominait sur le mont Hermon, sur Salka et sur tout le Bashane jusqu’à la frontière des Gueshourites et des Maakatites, ainsi que sur la moitié de Galaad, à la frontière de Séhone, roi de Heshbone."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Moïse, le serviteur du Seigneur, et les fils d’Israël, les battirent. Moïse, le serviteur du Seigneur, les donna en possession aux Roubénites, aux Gadites et à la demi-tribu de Manassé."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Voici les rois du pays que Josué et les fils d’Israël battirent au-delà du Jourdain, à l’ouest, depuis Baal-Gad, dans la vallée du Liban, jusqu’au mont Halaq, qui s’élève vers Séïr. Josué donna ce pays en possession aux tribus d’Israël selon leur répartition,"
+                    },
+                    {
+                        "number": 8,
+                        "text": "dans la montagne, dans le Bas-Pays, dans la Araba et sur les pentes, dans le désert et le Néguev, chez les Hittites, les Amorites, les Cananéens, les Perizzites et les Jébuséens."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Le roi de Jéricho, un. Le roi de Aï, à côté de Béthel, un."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Le roi de Jérusalem, un. Le roi d’Hébron, un."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Le roi de Yarmouth, un. Le roi de Lakish, un."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Le roi d’Églone, un. Le roi de Guèzer, un."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Le roi de Debir, un. Le roi de Guéder, un."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Le roi de Horma, un. Le roi de Arad, un."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Le roi de Libna, un. Le roi d’Adoullam, un."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Le roi de Maqqéda, un. Le roi de Béthel, un."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Le roi de Tappouah, un. Le roi de Héfèr, un."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Le roi d’Afeq, un. Le roi de Sarone, un."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Le roi de Madone, un. Le roi de Haçor, un."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Le roi de Shimrone-Merone, un. Le roi d’Akshaf, un."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Le roi de Taanak, un. Le roi de Meguiddo, un."
+                    },
+                    {
+                        "number": 22,
+                        "text": "Le roi de Qèdesh, un. Le roi de Yoqnéam, au Carmel, un."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Le roi de Dor, sur la crête de Dor, un. Le roi des Goïm, à Guilgal, un."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Le roi de Tirsa, un. Total des rois : trente et un."
+                    }
+                ]
+            },
+            {
+                "number": 13,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Josué était vieux, avancé en âge, lorsque le Seigneur lui dit : « Tu es devenu vieux, avancé en âge. Or, il reste encore une grande étendue de pays à conquérir."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Voici le pays qui reste : tous les districts des Philistins et tous ceux des Gueshourites,"
+                    },
+                    {
+                        "number": 3,
+                        "text": "depuis le torrent, en face de l’Égypte, jusqu’au territoire d’Éqrone au nord, considéré comme cananéen – les cinq princes philistins sont : celui de Gaza, celui d’Ashdod, celui d’Ascalon, celui de Gath et celui d’Éqrone – ; puis les Avvites ;"
+                    },
+                    {
+                        "number": 4,
+                        "text": "au sud, tout le pays des Cananéens et Méara, qui appartient aux Sidoniens jusqu’à Aféqa, jusqu’à la frontière des Amorites ;"
+                    },
+                    {
+                        "number": 5,
+                        "text": "le pays des Guiblites et tout le Liban au soleil levant, depuis Baal-Gad au pied du mont Hermon jusqu’à l’Entrée-de-Hamath ;"
+                    },
+                    {
+                        "number": 6,
+                        "text": "tous les habitants de la montagne, depuis le Liban jusqu’à Misrefoth-Maïm, tous les Sidoniens. C’est moi qui les déposséderai devant les fils d’Israël. Tu auras seulement à faire de ce pays l’héritage d’Israël, comme je te l’ai ordonné."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Partage-le maintenant, pour qu’il soit l’héritage des neuf tribus et de la demi-tribu de Manassé. »"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Avec l’autre demi-tribu, les Roubénites et les Gadites avaient reçu en héritage ce que Moïse leur avait donné au-delà du Jourdain, à l’est, comme Moïse, serviteur du Seigneur, devait le leur donner :"
+                    },
+                    {
+                        "number": 9,
+                        "text": "depuis Aroër, sur la rive du torrent de l’Arnon, et depuis la ville qui est au milieu de cette vallée, tout le plateau, de Madaba jusqu’à Dibone,"
+                    },
+                    {
+                        "number": 10,
+                        "text": "toutes les villes de Séhone, roi des Amorites, qui régnait à Heshbone, jusqu’à la frontière des fils d’Ammone ;"
+                    },
+                    {
+                        "number": 11,
+                        "text": "le Galaad et le territoire des Gueshourites et des Maakatites, avec tout le mont Hermon et tout le Bashane jusqu’à Salka,"
+                    },
+                    {
+                        "number": 12,
+                        "text": "et dans le Bashane tout le royaume de Og qui régnait à Ashtaroth et à Édréï, et qui restait l’un des derniers Refaïtes. Moïse les avait battus et dépossédés."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Mais les fils d’Israël ne dépossédèrent pas les Gueshourites ni les Maakatites. Gueshour et Maakath ont donc habité au milieu d’Israël jusqu’à ce jour."
+                    },
+                    {
+                        "number": 14,
+                        "text": "À la tribu de Lévi seule, il ne donna pas d’héritage : les offrandes faites au Seigneur, Dieu d’Israël, tel est son héritage, selon ce qu’il lui avait dit."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Moïse avait donné à la tribu des fils de Roubène, selon leurs clans,"
+                    },
+                    {
+                        "number": 16,
+                        "text": "ce qui devint leur territoire : depuis Aroër, qui est sur la rive du torrent de l’Arnon, et depuis la ville qui est au milieu de la vallée, ainsi que tout le plateau jusqu’à Madaba ;"
+                    },
+                    {
+                        "number": 17,
+                        "text": "Heshbone, ainsi que toutes les villes qui sont sur le plateau : Dibone, Bamoth-Baal, Beth-Baal-Méone,"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Yaça, Qedémoth, Méfaath,"
+                    },
+                    {
+                        "number": 19,
+                        "text": "Qiryataïm, Sibma, Céreth-Shahar, sur le mont de la Vallée,"
+                    },
+                    {
+                        "number": 20,
+                        "text": "Beth-Péor, les pentes du Pisga et Beth-Yeshimoth,"
+                    },
+                    {
+                        "number": 21,
+                        "text": "toutes les villes du plateau, tout le royaume de Séhone, roi des Amorites, qui régnait à Heshbone. Moïse l’avait battu, ainsi que les princes de Madiane : Évi, Rèqem, Sour, Hour et Rèba, vassaux de Séhone, qui habitaient le pays,"
+                    },
+                    {
+                        "number": 22,
+                        "text": "et Balaam, fils de Béor, le devin, qui comptait parmi les victimes que les fils d’Israël avaient tuées par l’épée."
+                    },
+                    {
+                        "number": 23,
+                        "text": "La frontière des fils de Roubène était le Jourdain et sa région. Tel fut l’héritage des fils de Roubène selon leurs clans : les villes et leurs villages."
+                    },
+                    {
+                        "number": 24,
+                        "text": "Moïse avait donné à la tribu de Gad, aux fils de Gad, selon leurs clans,"
+                    },
+                    {
+                        "number": 25,
+                        "text": "ce qui devint leur territoire : Yazèr et toutes les villes du Galaad, la moitié du pays des fils d’Ammone, jusqu’à Aroër qui est en face de Rabba,"
+                    },
+                    {
+                        "number": 26,
+                        "text": "depuis Heshbone jusqu’à Ramath-ha-Mispè et Betonim, et depuis Mahanaïm jusqu’à la limite de Lo-Debar ;"
+                    },
+                    {
+                        "number": 27,
+                        "text": "dans la plaine, Beth-Haram, Beth-Nimra, Souccoth, Safone, reste du royaume de Séhone, roi de Heshbone, avec le Jourdain, et ses environs jusqu’à l’extrémité de la mer de Kinnèreth, au-delà du Jourdain, à l’est."
+                    },
+                    {
+                        "number": 28,
+                        "text": "Tel fut l’héritage des fils de Gad selon leurs clans : les villes et leurs villages."
+                    },
+                    {
+                        "number": 29,
+                        "text": "Moïse avait pourvu la demi-tribu de Manassé et ce fut, pour la demi-tribu des fils de Manassé, selon leur clan,"
+                    },
+                    {
+                        "number": 30,
+                        "text": "ce qui devint leur territoire : depuis Mahanaïm, tout le Bashane, tout le royaume de Og, roi de Bashane, et tous les campements de Yaïr qui sont dans le Bashane, soixante villes ;"
+                    },
+                    {
+                        "number": 31,
+                        "text": "la moitié du Galaad, Ashtaroth et Édréï, villes du royaume de Og dans le Bashane, furent pour les fils de Makir, fils de Manassé, c’est-à-dire pour la moitié des fils de Makir, selon leurs clans."
+                    },
+                    {
+                        "number": 32,
+                        "text": "Voilà ce que Moïse avait donné en héritage, dans les steppes de Moab au-delà du Jourdain, à l’est de Jéricho."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Mais à la tribu de Lévi, Moïse ne donna pas d’héritage : le Seigneur, Dieu d’Israël, c’est lui leur héritage, selon ce qu’il leur avait dit."
+                    }
+                ]
+            },
+            {
+                "number": 14,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Voici ce que les fils d’Israël reçurent en héritage au pays de Canaan, ce que leur donnèrent en héritage le prêtre Éléazar, Josué, fils de Noun, et les chefs de famille des tribus des fils d’Israël."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Leur héritage se fit par tirage au sort, comme le Seigneur l’avait commandé par la voix de Moïse pour les neuf tribus et la demi-tribu."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Car Moïse avait donné un héritage aux deux tribus et à la demi-tribu, de l’autre côté du Jourdain. Mais aux Lévites, il n’avait pas donné d’héritage parmi eux."
+                    },
+                    {
+                        "number": 4,
+                        "text": "En effet, les fils de Joseph formaient deux tribus, Manassé et Éphraïm, et on ne donna pas de part aux Lévites dans le pays sauf, pour leurs troupeaux et pour leurs biens, des villes pour y habiter, avec leurs pâturages communs."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Les fils d’Israël firent ce que le Seigneur avait commandé à Moïse : ils partagèrent le pays."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Les fils de Juda vinrent trouver Josué à Guilgal, et Caleb, fils de Yefounnè, le Qenizzite, lui dit : « Tu sais ce que le Seigneur a dit à Moïse, l’homme de Dieu, à mon sujet et à ton sujet, à Cadès-Barnéa."
+                    },
+                    {
+                        "number": 7,
+                        "text": "J’avais quarante ans lorsque Moïse, le serviteur du Seigneur, m’envoya de Cadès-Barnéa pour espionner le pays, et je lui rendis compte selon ma conscience."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Mes frères, montés avec moi, ont fait fondre le courage du peuple, mais moi j’ai suivi sans réserve le Seigneur, mon Dieu."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Ce jour-là, Moïse promit : “En vérité, le pays que ton pied a foulé sera ton héritage, pour toi et tes fils à jamais, puisque tu as suivi sans réserve le Seigneur, mon Dieu !”"
+                    },
+                    {
+                        "number": 10,
+                        "text": "Maintenant, le Seigneur m’a fait vivre comme il me l’avait dit : il y a quarante-cinq ans que le Seigneur a fait cette promesse à Moïse, alors qu’Israël marchait dans le désert. Maintenant, me voici âgé de quatre-vingt-cinq ans."
+                    },
+                    {
+                        "number": 11,
+                        "text": "J’ai autant de force aujourd’hui que j’en avais le jour où Moïse m’envoya. Telle était ma force alors, telle est ma force aujourd’hui pour partir au combat et en revenir."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Alors, donne-moi cette montagne, dont le Seigneur a parlé ce jour-là. Tu as appris ce même jour qu’il y avait là des géants Anaqites et de grandes villes fortifiées. Peut-être le Seigneur sera-t-il avec moi ; alors j’en prendrai possession, comme le Seigneur l’a dit. »"
+                    },
+                    {
+                        "number": 13,
+                        "text": "Josué bénit Caleb, fils de Yefounnè, et lui donna Hébron en héritage."
+                    },
+                    {
+                        "number": 14,
+                        "text": "C’est pourquoi Caleb, fils de Yefounnè, le Qenizzite, a eu Hébron pour héritage jusqu’à ce jour : parce qu’il avait suivi sans réserve le Seigneur, Dieu d’Israël."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Le nom d’Hébron était autrefois Qiryath-Arba, et Arba était l’homme le plus grand parmi les géants Anaqites. Et le pays se reposa de la guerre."
+                    }
+                ]
+            },
+            {
+                "number": 15,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Voici la part de la tribu des fils de Juda, selon leurs clans : elle était à la limite d’Édom, au désert de Cine vers le sud, à l’extrémité méridionale."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Au sud, leur frontière allait de la fin de la mer Morte depuis la presqu’île qui fait face au Néguev,"
+                    },
+                    {
+                        "number": 3,
+                        "text": "se dirigeait vers le sud par la montée des Scorpions, passait à Cine et montait au sud de Cadès-Barnéa, passait à Hesrone, montait à Addar et tournait vers Qarqa."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Puis elle passait à Asmone, se dirigeait vers le Torrent d’Égypte, enfin aboutissait à la mer. « Telle sera votre frontière sud. »"
+                    },
+                    {
+                        "number": 5,
+                        "text": "À l’est, la frontière était la mer Morte jusqu’à l’embouchure du Jourdain."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Au nord, la frontière partait du golfe de la mer à l’embouchure du Jourdain, montait à Beth-Hogla, passait au nord de Beth-ha-Araba. Puis, la frontière montait jusqu’à la Pierre de Bohane, fils de Roubène."
+                    },
+                    {
+                        "number": 7,
+                        "text": "La frontière montait alors à Debir par le Val d’Akor et, au nord, tournait vers Guilgal, en face de la montée d’Adoummim. Celle-ci est au sud du Torrent. Puis la frontière passait aux eaux de Enn-Shèmesh et aboutissait à Enn-Roguel."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Ensuite, elle remontait la vallée de Ben-Hinnom vers le flanc sud des Jébuséens – c’est-à-dire Jérusalem –, puis la frontière gravissait le sommet de la montagne, en face de la vallée de Hinnom, à l’ouest, au bout du val des Refaïtes au nord."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Du sommet de la montagne, la frontière s’infléchissait vers la source des eaux de Neftoah et se dirigeait vers les villes du mont Éfrone. La frontière obliquait alors vers Baala, c’est-à-dire Qiryath-Yearim."
+                    },
+                    {
+                        "number": 10,
+                        "text": "À partir de Baala, la frontière tournait à l’ouest en direction du mont Séïr, passait au flanc de la montagne de Yearim au nord, c’est-à-dire Kesalone, descendait à Beth-Shèmesh et passait à Timna."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Alors, la frontière se dirigeait vers le flanc nord d’Éqrone, s’infléchissait vers Shikkarone, passait par le mont de Baala, se dirigeait vers Yabnéel et aboutissait à la mer."
+                    },
+                    {
+                        "number": 12,
+                        "text": "À l’ouest, la frontière était la mer Méditerranée et son littoral. Tel était le territoire des fils de Juda, de tous côtés, selon leurs clans."
+                    },
+                    {
+                        "number": 13,
+                        "text": "À Caleb, fils de Yefounnè, on donna une part au milieu des fils de Juda, selon l’ordre du Seigneur à Josué : Qiryath-Arba, c’est-à-dire Hébron. Arba était le père d’Anaq."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Caleb en déposséda les trois fils d’Anaq : Shéshaï, Ahimane et Talmaï, descendants d’Anaq."
+                    },
+                    {
+                        "number": 15,
+                        "text": "De là, il monta contre les habitants de Debir. Le nom de Debir était auparavant Qiryath-Séfèr."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Caleb dit : « Celui qui vaincra Qiryath-Séfer et s’en emparera, je lui donnerai pour femme ma fille Aksa »."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Otniel, fils de Qenaz, le frère de Caleb, s’en empara ; alors, Caleb lui donna pour femme sa fille Aksa."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Dès qu’elle arriva, Otniel l’incita à demander à son père un champ. Elle descendit de son âne et Caleb lui demanda : « Que veux-tu ? »"
+                    },
+                    {
+                        "number": 19,
+                        "text": "Elle lui dit : « Accorde-moi une faveur. Puisque tu m’as établie au pays du Néguev, donne-moi aussi des sources. » Caleb lui donna les sources d’en haut et les sources d’en bas."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Voici quel fut l’héritage de la tribu des fils de Juda, selon leurs clans."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Les villes à l’extrémité de la tribu de Juda, vers la frontière d’Édom, dans le Néguev, étaient : Qabcéel, Éder, Yagour,"
+                    },
+                    {
+                        "number": 22,
+                        "text": "Qina, Dimona, Adéada,"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Qèdesh, Haçor, Yitnane,"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Zif, Télem, Bealoth,"
+                    },
+                    {
+                        "number": 25,
+                        "text": "Haçor-Hadatta, Qeriyoth, Hesrone – c’est-à-dire Haçor –,"
+                    },
+                    {
+                        "number": 26,
+                        "text": "Amame, Shema, Molada,"
+                    },
+                    {
+                        "number": 27,
+                        "text": "Haçar-Gadda, Heshmone, Beth-Pèleth,"
+                    },
+                    {
+                        "number": 28,
+                        "text": "Haçar-Shoual, Bershéba et ses dépendances,"
+                    },
+                    {
+                        "number": 29,
+                        "text": "Baala, Liyim, Écem,"
+                    },
+                    {
+                        "number": 30,
+                        "text": "Eltolad, Kesil, Horma,"
+                    },
+                    {
+                        "number": 31,
+                        "text": "Ciqlag, Madmanna, Sânsanna,"
+                    },
+                    {
+                        "number": 32,
+                        "text": "Lebaoth, Shilhim, Enn-Rimmone. Au total, vingt-neuf villes avec leurs villages."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Dans le Bas-Pays : Eshtaol, Soréa, Ashna,"
+                    },
+                    {
+                        "number": 34,
+                        "text": "Zanoah, Enn-Gannim, Tappouah, Ha-Énam,"
+                    },
+                    {
+                        "number": 35,
+                        "text": "Yarmouth, Adoullam, Soko, Azéqa,"
+                    },
+                    {
+                        "number": 36,
+                        "text": "Shaaraïm, Aditaïm, Ha-Guedéra, Guedérotaïm : quatorze villes avec leurs villages."
+                    },
+                    {
+                        "number": 37,
+                        "text": "Cenane, Hadasha, Migdal-Gad,"
+                    },
+                    {
+                        "number": 38,
+                        "text": "Dilane, Ha-Mispè, Yoqtéel,"
+                    },
+                    {
+                        "number": 39,
+                        "text": "Lakish, Bosqath, Églone,"
+                    },
+                    {
+                        "number": 40,
+                        "text": "Kabbone, Lahmas, Kitlish,"
+                    },
+                    {
+                        "number": 41,
+                        "text": "Guedéroth, Beth-Dagone, Naama, Maqqéda : seize villes avec leurs villages."
+                    },
+                    {
+                        "number": 42,
+                        "text": "Libna, Éter, Ashane,"
+                    },
+                    {
+                        "number": 43,
+                        "text": "Yiftah, Ashna, Necib,"
+                    },
+                    {
+                        "number": 44,
+                        "text": "Qéïla, Akzib, Marésha : neuf villes avec leurs villages."
+                    },
+                    {
+                        "number": 45,
+                        "text": "Éqrone, ses dépendances et ses villages ;"
+                    },
+                    {
+                        "number": 46,
+                        "text": "d’Éqrone à la mer, tout ce qui est près d’Ashdod et de ses villages ;"
+                    },
+                    {
+                        "number": 47,
+                        "text": "Ashdod, ses dépendances et ses villages ; Gaza, ses dépendances et ses villages jusqu’au Torrent d’Égypte, la mer Méditerranée étant la frontière."
+                    },
+                    {
+                        "number": 48,
+                        "text": "Dans la montagne, Shamir, Yattir, Soko,"
+                    },
+                    {
+                        "number": 49,
+                        "text": "Danna, Qiryath-Séfer – c’est-à-dire Debir –"
+                    },
+                    {
+                        "number": 50,
+                        "text": "Anab, Eshtemoa, Anim,"
+                    },
+                    {
+                        "number": 51,
+                        "text": "Goshèn, Holone, Guilo : onze villes avec leurs villages."
+                    },
+                    {
+                        "number": 52,
+                        "text": "Arab, Douma, Éshane,"
+                    },
+                    {
+                        "number": 53,
+                        "text": "Yanoum, Beth-Tappouah, Aféqa,"
+                    },
+                    {
+                        "number": 54,
+                        "text": "Houmta, Qiryath-Arba – c’est-à-dire Hébron –, Sior : neuf villes avec leurs villages."
+                    },
+                    {
+                        "number": 55,
+                        "text": "Maone, Carmel, Zif, Youtta,"
+                    },
+                    {
+                        "number": 56,
+                        "text": "Yizréel, Yoqdam, Zanoah,"
+                    },
+                    {
+                        "number": 57,
+                        "text": "Ha-Qaïn, Guibéa, Timna : dix villes avec leurs villages."
+                    },
+                    {
+                        "number": 58,
+                        "text": "Halhoul, Beth-Sour, Guedor,"
+                    },
+                    {
+                        "number": 59,
+                        "text": "Maarath, Beth-Anoth, Elteqone : six villes avec leurs villages."
+                    },
+                    {
+                        "number": 60,
+                        "text": "Qiryath-Baal – c’est-à-dire Qiryath-Yearim –, Rabba : deux villes et leurs villages."
+                    },
+                    {
+                        "number": 61,
+                        "text": "Dans le désert, Beth-ha-Araba, Middine, Skaka,"
+                    },
+                    {
+                        "number": 62,
+                        "text": "Ha-Nibshane, la Ville-du-Sel, Enn-Guèdi : six villes avec leurs villages."
+                    },
+                    {
+                        "number": 63,
+                        "text": "Quant aux Jébuséens qui habitaient Jérusalem, les fils de Juda ne purent les déposséder. Les Jébuséens habitèrent donc avec les fils de Juda à Jérusalem jusqu’à ce jour."
+                    }
+                ]
+            },
+            {
+                "number": 16,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "La part des fils de Joseph allait du Jourdain près de Jéricho, à l’est des eaux de Jéricho, en suivant le désert qui monte de Jéricho dans la montagne de Béthel ;"
+                    },
+                    {
+                        "number": 2,
+                        "text": "de Béthel, elle se dirigeait vers Louz et passait la frontière des Arkites à Ataroth ;"
+                    },
+                    {
+                        "number": 3,
+                        "text": "puis elle descendait à l’ouest vers la frontière des Yaflétites jusqu’au territoire de Beth-Horone-le-Bas, jusqu’à Guèzer, et aboutissait à la mer."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Tel fut l’héritage des fils de Joseph, Manassé et Éphraïm."
+                    },
+                    {
+                        "number": 5,
+                        "text": "La frontière des fils d’Éphraïm, selon leurs clans, la frontière de leur héritage, était, à l’est, Ataroth-Addar jusqu’à Beth-Horone-le-Haut ;"
+                    },
+                    {
+                        "number": 6,
+                        "text": "puis la frontière se dirigeait vers l’ouest, ayant Ha-Mikmetath au nord, et tournait vers l’est, vers Taanath-Silo qu’elle dépassait à l’est vers Yanoah ;"
+                    },
+                    {
+                        "number": 7,
+                        "text": "elle descendait de Yanoah à Ataroth et Naara, touchait Jéricho pour aboutir au Jourdain."
+                    },
+                    {
+                        "number": 8,
+                        "text": "De Tappouah, la frontière allait vers l’ouest, au torrent de Qana, et aboutissait à la mer. Tel fut l’héritage de la tribu des fils d’Éphraïm, selon leurs clans,"
+                    },
+                    {
+                        "number": 9,
+                        "text": "sans compter les villes réservées aux fils d’Éphraïm au milieu de l’héritage des fils de Manassé, toutes ces villes avec leurs villages."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Mais ils ne dépossédèrent pas les Cananéens habitant à Guèzer. Les Cananéens habitèrent au milieu d’Éphraïm jusqu’à ce jour, et ils furent soumis à la corvée."
+                    }
+                ]
+            },
+            {
+                "number": 17,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "La part de la tribu de Manassé – il était le premier-né de Joseph – fut pour Makir, premier-né de Manassé, père de Galaad. Comme il était homme de guerre, il reçut les pays de Galaad et de Bashane."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Le reste fut pour les autres fils de Manassé, selon leurs clans. À savoir : les fils d’Abiézer, les fils de Héleq, les fils d’Asriel, les fils de Shèkem, les fils de Héfer, les fils de Shemida. C’étaient les fils de Manassé, lui-même fils de Joseph, les enfants mâles, selon leurs clans."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Selofhad, fils de Héfer, fils de Galaad, fils de Makir, fils de Manassé, n’avait pas de fils, mais seulement des filles. Voici leurs noms : Mahla, Noa, Hogla, Milka et Tirsa."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Elles se présentèrent devant le prêtre Éléazar, devant Josué, fils de Noun, et devant les responsables en disant : « Le Seigneur a ordonné à Moïse de nous donner un héritage au milieu de nos frères. » Suivant l’ordre du Seigneur, on leur donna un héritage au milieu des frères de leur père."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Dix parts revinrent donc à Manassé, sans compter le pays de Galaad et de Bashane, qui se trouve de l’autre côté du Jourdain."
+                    },
+                    {
+                        "number": 6,
+                        "text": "En effet, les filles de Manassé reçurent un héritage au milieu de ses fils. Le pays de Galaad, lui, appartint aux autres fils de Manassé."
+                    },
+                    {
+                        "number": 7,
+                        "text": "La frontière de Manassé, du côté d’Asher, était à Mikmetath, en face de Sichem ; puis la frontière allait au sud, vers Yashib-Enn-Tappouah."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Le pays de Tappouah appartenait à Manassé, mais Tappouah, à la frontière de Manassé, appartenait aux fils d’Éphraïm."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Puis la frontière descendait au torrent de Qana ; au sud du torrent, les villes appartenaient à Éphraïm, au milieu des villes de Manassé ; la frontière de Manassé était au nord du torrent et aboutissait à la mer."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Le sud était à Éphraïm ; le nord, à Manassé. La mer était leur limite. Ils touchaient Asher au nord et Issakar à l’est."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Manassé eut encore, avec Issakar et avec Asher, Beth-Shéane et ses dépendances, Yibléam et ses dépendances, les habitants de Dor et de ses dépendances, les habitants de Enn-Dor et de ses dépendances, les habitants de Taanak et de ses dépendances, les habitants de Meguiddo et de ses dépendances, la troisième étant Nafath."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Mais comme les fils de Manassé ne réussirent pas à s’emparer de ces villes, les Cananéens persistèrent à habiter ce pays."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Cependant, les fils d’Israël devinrent forts et soumirent les Cananéens à la corvée, sans toutefois réussir à les déposséder."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Les fils de Joseph s’adressèrent à Josué en ces termes : « Pourquoi m’as-tu donné en héritage une seule part, un seul lot, alors que je suis un peuple nombreux, tant le Seigneur m’a béni jusqu’à ce jour ? »"
+                    },
+                    {
+                        "number": 15,
+                        "text": "Josué leur dit : « Si tu es un peuple nombreux, monte à la forêt ; là tu déboiseras à ton profit, au pays des Perizzites et des Refaïtes, puisque la montagne d’Éphraïm est trop étroite pour toi. »"
+                    },
+                    {
+                        "number": 16,
+                        "text": "Les fils de Joseph dirent : « La montagne ne nous suffit pas, et en plus ils ont des chars de fer, tous les Cananéens qui habitent le pays de la plaine, ceux de Beth-Shéane et de ses dépendances comme ceux de la plaine de Yizréel. »"
+                    },
+                    {
+                        "number": 17,
+                        "text": "Josué répondit à la maison de Joseph, à Éphraïm et à Manassé : « Tu es un peuple nombreux, et ta force est grande. Tu n’auras pas seulement une part,"
+                    },
+                    {
+                        "number": 18,
+                        "text": "tu auras la montagne. C’est une forêt, tu la déboiseras et tu en auras les accès. Tu déposséderas les Cananéens, bien qu’ils aient des chars de fer et qu’ils soient forts. »"
+                    }
+                ]
+            },
+            {
+                "number": 18,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Toute la communauté des fils d’Israël se rassembla à Silo, où l’on installa la tente de la Rencontre. Le pays était soumis devant eux."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Or, parmi les fils d’Israël, il restait sept tribus qui n’avaient pas reçu leur héritage."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Josué dit aux fils d’Israël : « Combien de temps encore négligerez-vous d’entrer en possession du pays que vous a donné le Seigneur, le Dieu de vos pères ?"
+                    },
+                    {
+                        "number": 4,
+                        "text": "Choisissez-vous trois hommes par tribu. Je les enverrai et ils partiront. Ils iront parcourir le pays, ils en feront le relevé en vue de répartir leur héritage. Puis ils m’en rendront compte."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Ils partageront le pays en sept parts. Juda restera sur son territoire au sud, et la maison de Joseph sur le sien au nord."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Vous, faites le relevé du pays selon sept parts, et vous me rendrez compte ici même. Je les tirerai au sort pour vous, en présence du Seigneur notre Dieu."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Mais il n’y aura pas de part au milieu de vous pour les Lévites : leur héritage est le sacerdoce du Seigneur. Quant à Gad, Roubène et la demi-tribu de Manassé, ils ont reçu leur héritage de l’autre côté du Jourdain, à l’est, celui donné par Moïse, le serviteur du Seigneur. »"
+                    },
+                    {
+                        "number": 8,
+                        "text": "Ces hommes se levèrent et partirent. À ceux qui s’en allaient faire le relevé du pays, Josué donna cet ordre : « Partez, parcourez le pays, faites-en le relevé dans un livre, puis revenez vers moi. Ici même, je tirerai au sort pour vous, en présence du Seigneur, à Silo. »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Les hommes partirent. Ils traversèrent le pays en faisant un relevé, ville après ville, en sept parts. Puis ils en rendirent compte à Josué au camp de Silo."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Alors, Josué tira au sort pour eux à Silo, en présence du Seigneur. C’est là que Josué répartit le pays entre les fils d’Israël : à chacun sa parcelle."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Le sort tomba d’abord sur la tribu des fils de Benjamin, pour leurs clans. Le territoire qui leur échut se trouvait entre celui des fils de Juda et celui des fils de Joseph."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Au nord, leur frontière partait du Jourdain, montait sur le flanc nord de Jéricho, gravissait la montagne vers l’ouest et aboutissait au désert de Beth-Awen."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Puis, la frontière atteignait Louz – c’est-à-dire Béthel –, le flanc sud de Louz ; la frontière descendait à Ataroth-Addar, sur la montagne qui est au sud de Beth-Horone-le-Bas."
+                    },
+                    {
+                        "number": 14,
+                        "text": "La frontière s’infléchissait, tournait de l’ouest vers le sud, de la montagne qui est en face de Beth-Horone au midi, pour aboutir à Qiryath-Baal – c’est-à-dire Qiryath-Yearim, ville des fils de Juda. Tel était le côté ouest."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Voici le côté sud : il commençait à Qiryath-Yearim, puis la frontière se dirigeait vers l’ouest, vers la source des eaux de Neftoah ;"
+                    },
+                    {
+                        "number": 16,
+                        "text": "ensuite, la frontière descendait jusqu’au bout de la montagne qui est en face de la vallée de Ben-Hinnom, dans la vallée des Refaïtes au nord ; elle descendait dans la vallée de Hinnom, sur le flanc sud des Jébuséens, et jusqu’à Enn-Roguel."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Elle s’infléchissait vers le nord, se dirigeait vers Enn-Shèmesh et vers Gueliloth, en face de la montée d’Adoummim ; elle descendait à la Pierre de Bohane, le fils de Roubène."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Elle suivait le flanc nord, en face de la Araba, puis elle descendait vers la Araba."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Enfin, la frontière passait sur le flanc nord de Beth-Hogla pour aboutir au golfe de la mer Morte, au nord, et à l’embouchure du Jourdain, au sud. Telle était la frontière sud."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Le Jourdain formait la frontière est. Tel fut l’héritage des fils de Benjamin avec ses frontières alentour, pour leurs clans."
+                    },
+                    {
+                        "number": 21,
+                        "text": "Les villes de la tribu des fils de Benjamin, selon leurs clans, étaient : Jéricho, Beth-Hogla, Émeq-Qecis,"
+                    },
+                    {
+                        "number": 22,
+                        "text": "Beth-ha-Araba, Semaraïm, Béthel,"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Ha-Avvim, Ha-Para, Ofra,"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Kefar-ha-Ammoni, Ha-Ofni, Guéba : douze villes avec leurs villages."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Gabaon, Ha-Rama, Beéroth,"
+                    },
+                    {
+                        "number": 26,
+                        "text": "Ha-Mispè, Ha-Kefira, Ha-Moça,"
+                    },
+                    {
+                        "number": 27,
+                        "text": "Réqem, Yirpeél, Taréala,"
+                    },
+                    {
+                        "number": 28,
+                        "text": "Séla-ha-Élef, Jébus – c’est-à-dire Jérusalem –, Guibéa, Qiryath-Yearim : quatorze villes avec leurs villages. Tel fut l’héritage des fils de Benjamin, selon leurs clans."
+                    }
+                ]
+            },
+            {
+                "number": 19,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "La seconde fois, le sort tomba sur Siméon, sur la tribu des fils de Siméon, pour leurs clans : leur héritage était au milieu de l’héritage des fils de Juda."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Ils reçurent en héritage Bershéba, Shéba, Molada,"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Haçar-Shoual, Bala, Écem,"
+                    },
+                    {
+                        "number": 4,
+                        "text": "Eltolad, Betoul, Horma,"
+                    },
+                    {
+                        "number": 5,
+                        "text": "Ciqlag, Beth-Ha-Markaboth, Haçar-Soussa,"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Beth-Lebaoth, Sharouhène : treize villes avec leurs villages ;"
+                    },
+                    {
+                        "number": 7,
+                        "text": "Aïn, Rimmone, Éter, Ashane : quatre villes avec leurs villages ;"
+                    },
+                    {
+                        "number": 8,
+                        "text": "ainsi que tous les villages aux alentours de ces villes, jusqu’à Baalath-Beèr, Ramath-Néguev. Tel fut l’héritage de la tribu des fils de Siméon pour leurs clans."
+                    },
+                    {
+                        "number": 9,
+                        "text": "C’est sur le domaine des fils de Juda qu’on prit l’héritage des fils de Siméon, car la part des fils de Juda était trop grande pour eux. Ainsi, les fils de Siméon reçurent leur héritage au milieu de celui des fils de Juda."
+                    },
+                    {
+                        "number": 10,
+                        "text": "La troisième fois, le sort tomba sur les fils de Zabulon, pour leurs clans. La frontière de leur héritage allait jusqu’à Sarid."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Elle montait à l’ouest vers Marala, rejoignait Dabbèsheth, puis atteignait le torrent en face de Yoqnéam."
+                    },
+                    {
+                        "number": 12,
+                        "text": "De Sarid, elle revenait vers l’est, au soleil levant, à la limite de Kisloth-Tabor, se dirigeait vers Ha-Daberath et montait jusqu’à Yafia."
+                    },
+                    {
+                        "number": 13,
+                        "text": "De là, elle passait à l’est, à l’orient, à Gath-Héfer, à Itta-Qacine, se dirigeait vers Rimmone et s’infléchissait vers Ha-Néa."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Alors, elle tournait au nord de Hannatone et aboutissait à la vallée de Yiftah-El,"
+                    },
+                    {
+                        "number": 15,
+                        "text": "avec Qattath, Nahalal, Shimrone, Yideala et Bethléem : douze villes avec leurs villages."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Tel fut l’héritage des fils de Zabulon pour leurs clans : ces villes avec leurs villages."
+                    },
+                    {
+                        "number": 17,
+                        "text": "La quatrième fois, le sort tomba sur Issakar, sur les fils d’Issakar, pour leurs clans."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Leur frontière allait vers Yizréel, Ha-Kesouloth, Shounem,"
+                    },
+                    {
+                        "number": 19,
+                        "text": "Hafaraïm, Shione, Anaharath,"
+                    },
+                    {
+                        "number": 20,
+                        "text": "Ha-Rabbith, Qishyone, Ébès,"
+                    },
+                    {
+                        "number": 21,
+                        "text": "Rèmeth, Enn-Gannim, Enn-Hadda, Beth-Passès."
+                    },
+                    {
+                        "number": 22,
+                        "text": "La frontière atteignait Tabor, Shahacima et Beth-Shèmesh, et aboutissait au Jourdain : seize villes avec leurs villages."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Tel fut l’héritage de la tribu des fils d’Issakar pour leurs clans : les villes avec leurs villages."
+                    },
+                    {
+                        "number": 24,
+                        "text": "La cinquième fois, le sort tomba sur la tribu des fils d’Asher, pour leurs clans."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Leur frontière englobait Helqath, Hali, Bètène, Akshaf,"
+                    },
+                    {
+                        "number": 26,
+                        "text": "Alammélek, Améad, Misheal ; elle touchait le Carmel, à l’ouest, et Shihor-Libnath."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Puis, du côté du soleil levant, elle revenait vers Beth-Dagone, atteignait Zabulon et la vallée de Yiftah-El au nord de Beth-ha-Émeq et Neïel ; elle se dirigeait vers Kaboul sur la gauche,"
+                    },
+                    {
+                        "number": 28,
+                        "text": "Abdone, Rehob, Hammone, Qana, jusqu’à Sidon-la-Grande."
+                    },
+                    {
+                        "number": 29,
+                        "text": "Puis la frontière revenait vers Ha-Rama jusqu’à la ville forte de Tyr ; elle revenait ensuite vers Hossa et aboutissait à la mer, à Mahleb, Akzib,"
+                    },
+                    {
+                        "number": 30,
+                        "text": "Akko, Afeq et Rehob : vingt-deux villes avec leurs villages."
+                    },
+                    {
+                        "number": 31,
+                        "text": "Tel fut l'héritage de la tribu des fils d'Asher pour leurs clans : les villes avec leurs villages."
+                    },
+                    {
+                        "number": 32,
+                        "text": "La sixième fois, le sort tomba sur les fils de Nephtali, pour leurs clans."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Leur frontière partait de Hélef, du chêne de Saanannim, par Adami-Ha-Nèqeb et Yabnéel, jusqu’à Laqqoum, et aboutissait au Jourdain."
+                    },
+                    {
+                        "number": 34,
+                        "text": "À l’ouest, la frontière revenait vers Aznoth-Tabor, puis de là se dirigeait vers Houqoq. Au sud, elle touchait Zabulon ; à l’ouest, Asher, et du côté du soleil levant Juda-du-Jourdain."
+                    },
+                    {
+                        "number": 35,
+                        "text": "Les villes fortes étaient : Ha-Siddim, Ser, Hammath, Raqqath, Kinnèreth,"
+                    },
+                    {
+                        "number": 36,
+                        "text": "Adama, Ha-Rama, Haçor,"
+                    },
+                    {
+                        "number": 37,
+                        "text": "Qèdesh, Édréï, Enn-Haçor,"
+                    },
+                    {
+                        "number": 38,
+                        "text": "Yireone, Migdal-El, Horem, Beth-Anath, Beth-Shèmesh : dix-neuf villes avec leurs villages."
+                    },
+                    {
+                        "number": 39,
+                        "text": "Tel fut l’héritage de la tribu des fils de Nephtali pour leurs clans : les villes avec leurs villages."
+                    },
+                    {
+                        "number": 40,
+                        "text": "La septième fois, le sort tomba sur la tribu des fils de Dane, pour leurs clans."
+                    },
+                    {
+                        "number": 41,
+                        "text": "La frontière de leur héritage englobait Soréa, Eshtaol, Ir-Shèmesh,"
+                    },
+                    {
+                        "number": 42,
+                        "text": "Shaalbim, Ayyalone, Yitla,"
+                    },
+                    {
+                        "number": 43,
+                        "text": "Élone, Timna, Éqrone,"
+                    },
+                    {
+                        "number": 44,
+                        "text": "Eltequé, Guibbetone, Baalath,"
+                    },
+                    {
+                        "number": 45,
+                        "text": "Yehoud, Bené-Beraq, Gath-Rimmone,"
+                    },
+                    {
+                        "number": 46,
+                        "text": "les eaux du Yarqone, Ha-Raqqone, avec le territoire en face de Jaffa."
+                    },
+                    {
+                        "number": 47,
+                        "text": "Mais le territoire des fils de Dane leur échappa. Alors, les fils de Dane montèrent attaquer Lèshem ; ils s’en emparèrent et la frappèrent du tranchant de l’épée ; ils en prirent possession et y habitèrent ; ils donnèrent à Lèshem le nom de Dane, leur père."
+                    },
+                    {
+                        "number": 48,
+                        "text": "Tel fut l’héritage de la tribu des fils de Dane pour leurs clans : ces villes avec leurs villages."
+                    },
+                    {
+                        "number": 49,
+                        "text": "Quand ils eurent terminé de distribuer le pays en héritage, suivant ses frontières, les fils d’Israël donnèrent à Josué, fils de Noun, un héritage au milieu d’eux."
+                    },
+                    {
+                        "number": 50,
+                        "text": "Sur l’ordre du Seigneur, ils lui donnèrent la ville qu’il avait demandée, Timnath-Sérah, dans la montagne d’Éphraïm. Il rebâtit la ville et il y habita."
+                    },
+                    {
+                        "number": 51,
+                        "text": "Tels sont les héritages que le prêtre Éléazar, Josué fils de Noun et les chefs de famille des tribus des fils d’Israël répartirent en les tirant au sort à Silo, en présence du Seigneur, à la porte de la tente de la Rencontre. Ils achevèrent ainsi le partage du pays."
+                    }
+                ]
+            },
+            {
+                "number": 20,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Le Seigneur s’adressa à Josué en ces termes :"
+                    },
+                    {
+                        "number": 2,
+                        "text": "« Tu parleras ainsi aux fils d’Israël : Donnez-vous les villes de refuge dont je vous avais parlé par l’intermédiaire de Moïse ;"
+                    },
+                    {
+                        "number": 3,
+                        "text": "là pourra s’enfuir le meurtrier qui aura tué une personne par mégarde, par méprise. Elles seront pour vous un refuge contre le vengeur du sang."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Le meurtrier s’enfuira vers une de ces villes. Il s’arrêtera à l’entrée de la porte et racontera son cas aux anciens de la ville. Ils l’accepteront dans la ville et lui désigneront un endroit où il habitera, parmi eux."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Si le vengeur du sang le poursuit, ils ne livreront pas le meurtrier entre ses mains : c’est en effet par méprise qu’il a frappé son prochain et non parce qu’il le haïssait auparavant."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Il restera dans cette ville jusqu’à ce qu’il comparaisse en jugement devant la communauté, et même jusqu’à la mort du grand prêtre alors en fonction. Ensuite, le meurtrier pourra revenir et rentrer dans sa ville, dans sa maison, dans la ville d’où il s’était enfui. »"
+                    },
+                    {
+                        "number": 7,
+                        "text": "On consacra donc Qèdesh en Galilée dans la montagne de Nephtali, Sichem dans la montagne d’Éphraïm, et Qiryath-Arba, c’est-à-dire Hébron, dans la montagne de Juda."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Au-delà du Jourdain, à la hauteur de Jéricho, à l’est, on désigna Bècèr dans le désert, sur le plateau de la tribu de Roubène ; Ramoth-de-Galaad, de la tribu de Gad ; et Golane en Bashane, de la tribu de Manassé."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Telles furent les villes désignées pour que puisse s’y enfuir tout homme qui a tué par mégarde, qu’il s’agisse de n’importe lequel des fils d’Israël ou d’un étranger séjournant au milieu d’eux. Ainsi, il ne mourra pas de la main du vengeur du sang avant d’avoir comparu devant la communauté."
+                    }
+                ]
+            },
+            {
+                "number": 21,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Les chefs de familles des Lévites vinrent trouver le prêtre Éléazar, Josué, fils de Noun, et les chefs de famille des tribus des fils d’Israël."
+                    },
+                    {
+                        "number": 2,
+                        "text": "À Silo, au pays de Canaan, ils s’adressèrent à eux en ces termes : « Par l’intermédiaire de Moïse, le Seigneur a ordonné de nous accorder des villes où habiter, avec des pâturages pour notre bétail. »"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Sur leur héritage et selon l’ordre du Seigneur, les fils d’Israël donnèrent donc aux Lévites les villes suivantes avec leurs pâturages."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Le sort tomba sur les clans des Qehatites ; parmi ces Lévites, les fils du prêtre Aaron reçurent par tirage au sort treize villes prises sur la tribu de Juda, sur la tribu de Siméon et sur la tribu de Benjamin."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Les autres fils de Qehath reçurent par tirage au sort dix villes prises sur les clans de la tribu d’Éphraïm, de la tribu de Dane et de la demi-tribu de Manassé."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Les fils de Guershone reçurent par tirage au sort treize villes prises sur les clans de la tribu d’Issakar, de la tribu d’Asher, de la tribu de Nephtali et de la demi-tribu de Manassé dans le Bashane."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Les fils de Merari reçurent pour leurs clans douze villes prises sur la tribu de Roubène, sur la tribu de Gad et sur la tribu de Zabulon."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Les fils d’Israël donnèrent aux Lévites ces villes avec leurs pâturages, en les tirant au sort, comme le Seigneur l’avait ordonné par l’intermédiaire de Moïse."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Sur la tribu des fils de Juda et la tribu des fils de Siméon, on donna les villes nommées ci-après"
+                    },
+                    {
+                        "number": 10,
+                        "text": "aux fils d’Aaron, du clan des Qehatites, d’entre les fils de Lévi, car la première part était pour eux."
+                    },
+                    {
+                        "number": 11,
+                        "text": "On leur donna Qiryath-Arba, la capitale des géants Anaqites – c’est-à-dire Hébron –, dans la montagne de Juda, avec ses pâturages alentour."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Mais la campagne autour de la ville avec ses villages, on la donna en propriété à Caleb, fils de Yefounnè."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Les fils du prêtre Aaron reçurent, comme ville de refuge pour le meurtrier, Hébron avec ses pâturages, ainsi que Libna avec ses pâturages,"
+                    },
+                    {
+                        "number": 14,
+                        "text": "Yattir avec ses pâturages, Eshtemoa avec ses pâturages,"
+                    },
+                    {
+                        "number": 15,
+                        "text": "Holone avec ses pâturages, Debir avec ses pâturages,"
+                    },
+                    {
+                        "number": 16,
+                        "text": "Aïn avec ses pâturages, Youtta avec ses pâturages, Beth-Shèmesh avec ses pâturages, soit neuf villes prises sur ces deux tribus."
+                    },
+                    {
+                        "number": 17,
+                        "text": "Sur la tribu de Benjamin : Gabaon avec ses pâturages, Guéba avec ses pâturages,"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Anatoth avec ses pâturages, Almone avec ses pâturages, soit quatre villes."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Total des villes des prêtres, fils d’Aaron : treize villes avec leurs pâturages."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Les clans des fils de Qehath, les Lévites restant parmi les fils de Qehath, reçurent par tirage au sort des villes prises sur la tribu d’Éphraïm."
+                    },
+                    {
+                        "number": 21,
+                        "text": "On leur donna, comme ville de refuge pour le meurtrier, Sichem avec ses pâturages, dans la montagne d’Éphraïm, ainsi que Guèzer avec ses pâturages,"
+                    },
+                    {
+                        "number": 22,
+                        "text": "Qibçaïm avec ses pâturages, Beth-Horone avec ses pâturages, soit quatre villes."
+                    },
+                    {
+                        "number": 23,
+                        "text": "Sur la tribu de Dane : Eltequé avec ses pâturages, Guibbetone avec ses pâturages,"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Ayyalone avec ses pâturages, Gath-Rimmone avec ses pâturages, soit quatre villes."
+                    },
+                    {
+                        "number": 25,
+                        "text": "Sur la demi-tribu de Manassé : Taanak avec ses pâturages, Yibléam avec ses pâturages, soit deux villes."
+                    },
+                    {
+                        "number": 26,
+                        "text": "Au total : dix villes avec leurs pâturages pour les clans des autres fils de Qehath."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Les fils de Guershone, parmi les clans de Lévites, reçurent, prises sur la demi-tribu de Manassé, Golane dans le Bashane avec ses pâturages, ville de refuge pour le meurtrier, ainsi qu’Ashtaroth avec ses pâturages, soit deux villes."
+                    },
+                    {
+                        "number": 28,
+                        "text": "Sur la tribu d’Issakar : Qishyone avec ses pâturages, Daberath avec ses pâturages,"
+                    },
+                    {
+                        "number": 29,
+                        "text": "Yarmouth avec ses pâturages, Enn-Gannim avec ses pâturages, soit quatre villes."
+                    },
+                    {
+                        "number": 30,
+                        "text": "Sur la tribu d’Asher : Misheal avec ses pâturages, Abdone avec ses pâturages,"
+                    },
+                    {
+                        "number": 31,
+                        "text": "Helqath avec ses pâturages, Rehob avec ses pâturages, soit quatre villes."
+                    },
+                    {
+                        "number": 32,
+                        "text": "Sur la tribu de Nephtali : comme ville de refuge pour le meurtrier, Qèdesh en Galilée avec ses pâturages, ainsi que Hammoth-Dor avec ses pâturages, Qartane avec ses pâturages, soit trois villes."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Total des villes des Guershonites selon leurs clans : treize villes avec leurs pâturages."
+                    },
+                    {
+                        "number": 34,
+                        "text": "Les clans des fils de Merari, les autres Lévites, reçurent, prises sur la tribu de Zabulon, Yoqnéam avec ses pâturages, Qarta avec ses pâturages,"
+                    },
+                    {
+                        "number": 35,
+                        "text": "Rimmone avec ses pâturages, Nahalal avec ses pâturages, soit quatre villes ;"
+                    },
+                    {
+                        "number": 36,
+                        "text": "et par-delà le Jourdain, à la hauteur de Jéricho, prises sur la tribu de Roubène, Bècèr dans le désert avec ses pâturages, comme ville de refuge pour le meurtrier, ainsi que Yahça avec ses pâturages,"
+                    },
+                    {
+                        "number": 37,
+                        "text": "Qedémoth avec ses pâturages, Méfaath avec ses pâturages, soit quatre villes ;"
+                    },
+                    {
+                        "number": 38,
+                        "text": "prises sur la tribu de Gad, Ramoth-de-Galaad avec ses pâturages, comme ville de refuge pour le meurtrier, ainsi que Mahanaïm avec ses pâturages,"
+                    },
+                    {
+                        "number": 39,
+                        "text": "Heshbone avec ses pâturages, Yazèr avec ses pâturages, au total quatre villes."
+                    },
+                    {
+                        "number": 40,
+                        "text": "Total des villes reçues par les fils de Merari, ceux qui restaient des clans des Lévites, selon leurs clans : leur part fut de douze villes."
+                    },
+                    {
+                        "number": 41,
+                        "text": "Total des villes des Lévites au milieu de la propriété des fils d’Israël : quarante-huit villes avec leurs pâturages."
+                    },
+                    {
+                        "number": 42,
+                        "text": "Chacune de ces villes était entourée de pâturages : il en était ainsi pour chacune d’entre elles."
+                    },
+                    {
+                        "number": 43,
+                        "text": "Ainsi, le Seigneur donna à Israël tout le pays qu’il avait juré de donner à leurs pères. Ils en prirent possession et s’y établirent."
+                    },
+                    {
+                        "number": 44,
+                        "text": "Le Seigneur leur accorda le repos de toute part, comme il l’avait juré à leurs pères. Aucun de leurs ennemis ne résista devant eux. Tous leurs ennemis, le Seigneur les livra entre leurs mains."
+                    },
+                    {
+                        "number": 45,
+                        "text": "Aucun des engagements pris par le Seigneur en faveur de la maison d’Israël ne resta sans effet : tout arriva."
+                    }
+                ]
+            },
+            {
+                "number": 22,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Josué appela les Roubénites, les Gadites et la demi-tribu de Manassé."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Il leur dit : « Vous avez observé tout ce que vous avait ordonné Moïse, le serviteur du Seigneur, et vous avez écouté ma voix en tout ce que je vous ai ordonné."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Pendant longtemps et jusqu’à ce jour, vous n’avez pas abandonné vos frères et vous avez bien observé le commandement du Seigneur votre Dieu."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Maintenant, le Seigneur votre Dieu a procuré à vos frères le repos, comme il leur avait dit. Maintenant, vous pouvez retourner à vos tentes, dans votre propre pays, celui que Moïse, le serviteur du Seigneur, vous a donné au-delà du Jourdain."
+                    },
+                    {
+                        "number": 5,
+                        "text": "Seulement, ayez grand soin de mettre en pratique le commandement et la loi que Moïse, le serviteur du Seigneur, vous a prescrits : Aimez le Seigneur votre Dieu, marchez dans tous ses chemins, gardez ses commandements, attachez-vous à lui, servez-le de tout votre cœur et de toute votre âme. »"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Josué les bénit et les renvoya, et ils allèrent à leurs tentes."
+                    },
+                    {
+                        "number": 7,
+                        "text": "À l’une des demi-tribus de Manassé, Moïse avait fait une donation dans le Bashane. À l’autre moitié, Josué avait fait une donation, parmi leurs frères, sur la rive occidentale du Jourdain. Josué les renvoya également à leurs tentes et les bénit."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Il s’adressa à eux en ces termes : « Retournez à vos tentes avec des richesses, des troupeaux très nombreux, avec de l’argent, de l’or, du bronze, du fer, des vêtements en très grande quantité. Et partagez avec vos frères le butin de vos ennemis. »"
+                    },
+                    {
+                        "number": 9,
+                        "text": "Les fils de Roubène, les fils de Gad et la demi-tribu de Manassé s’en retournèrent donc ; ils quittèrent les fils d’Israël à Silo, qui est au pays de Canaan, pour aller au pays de Galaad : ce pays était leur propriété, ils en avaient reçu la possession sur l’ordre du Seigneur, par l’intermédiaire de Moïse."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Ils arrivèrent ainsi à Gueliloth du Jourdain, qui est au pays de Canaan. Et là, les fils de Roubène, les fils de Gad et la demi-tribu de Manassé bâtirent un autel près du Jourdain, un autel imposant."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Les fils d’Israël l’apprirent : « Les fils de Roubène, disait-on, les fils de Gad et la demi-tribu de Manassé ont bâti un autel face au pays de Canaan, à Gueliloth du Jourdain, du côté des fils d’Israël. »"
+                    },
+                    {
+                        "number": 12,
+                        "text": "À cette nouvelle, toute la communauté des fils d’Israël se rassembla à Silo pour monter les combattre."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Les fils d’Israël envoyèrent Pinhas, fils du prêtre Éléazar, vers les fils de Roubène, les fils de Gad et la demi-tribu de Manassé, au pays de Galaad,"
+                    },
+                    {
+                        "number": 14,
+                        "text": "et avec lui dix responsables, un par famille pour toutes les tribus d’Israël. Chacun était chef de sa famille parmi les clans d’Israël."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Parvenus chez les fils de Roubène, les fils de Gad et la demi-tribu de Manassé, au pays de Galaad, ils leur parlèrent en ces termes :"
+                    },
+                    {
+                        "number": 16,
+                        "text": "« Voici ce qu’a dit toute la communauté du Seigneur : Que signifie cette infidélité que vous avez commise à l’égard du Dieu d’Israël, en vous détournant de lui, en vous bâtissant un autel, vous révoltant ainsi aujourd’hui contre le Seigneur ?"
+                    },
+                    {
+                        "number": 17,
+                        "text": "La faute de Péor ne nous suffit-elle pas ? Nous n’en sommes pas encore lavés jusqu’à ce jour, et pourtant ce fut un fléau pour la communauté du Seigneur !"
+                    },
+                    {
+                        "number": 18,
+                        "text": "Aujourd’hui, vous vous écartez du Seigneur ; aujourd’hui, vous vous révoltez contre le Seigneur ; demain, c’est lui qui s’irritera contre toute la communauté d’Israël."
+                    },
+                    {
+                        "number": 19,
+                        "text": "Le pays en votre propriété est-il impur ? Venez alors dans le pays qui est la propriété du Seigneur, là où il a sa demeure. Installez-vous parmi nous, mais ne vous révoltez pas contre le Seigneur, ne vous révoltez pas contre nous en vous bâtissant un autel à part de celui du Seigneur notre Dieu."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Le jour où Akane, fils de Zèrah, transgressa l’anathème, n’est-ce pas sur toute la communauté d’Israël que vint la Colère ? Et il ne fut pas seul à périr pour son crime. »"
+                    },
+                    {
+                        "number": 21,
+                        "text": "Les fils de Roubène, les fils de Gad et la demi-tribu de Manassé répondirent aux chefs des clans d’Israël en ces termes :"
+                    },
+                    {
+                        "number": 22,
+                        "text": "« Le Dieu des dieux, le Seigneur, sait, lui, ce qu’Israël doit savoir ! S’il s’agit d’une révolte ou d’une transgression envers le Seigneur, qu’il ne nous sauve pas en ce jour !"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Si nous avons bâti un autel pour nous détourner du Seigneur, pour présenter holocaustes et offrandes de céréales, pour y faire des sacrifices de paix, que le Seigneur nous demande des comptes !"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Non, c’est par inquiétude de ce qui pourrait arriver que nous l’avons fait. Nous nous disions que, demain peut-être, vos fils pourraient dire à nos fils : “Qu’y a-t-il de commun entre vous et le Seigneur, Dieu d’Israël ?"
+                    },
+                    {
+                        "number": 25,
+                        "text": "Entre nous et vous, fils de Roubène et fils de Gad, le Seigneur a mis une frontière : le Jourdain. Vous n’avez pas de part avec le Seigneur.” Vos fils détacheraient nos fils de la crainte du Seigneur."
+                    },
+                    {
+                        "number": 26,
+                        "text": "Nous nous sommes dit alors : “Agissons dans notre intérêt, bâtissons un autel non pour des holocaustes ou des sacrifices,"
+                    },
+                    {
+                        "number": 27,
+                        "text": "mais comme témoin entre nous et vous, et nos descendants après nous : c’est bien le service du Seigneur que nous accomplissons en sa présence, avec nos holocaustes, nos sacrifices ainsi que nos sacrifices de paix.” Demain, vos fils ne pourront pas dire aux nôtres : “Vous n’avez aucune part avec le Seigneur.”"
+                    },
+                    {
+                        "number": 28,
+                        "text": "Nous nous sommes dit : “Si demain on nous parle ainsi, à nous ou à nos descendants, nous dirons : Voyez la forme même de l’autel du Seigneur que nos pères ont fait ; il n’est pas pour des holocaustes ni pour des sacrifices, mais un témoin entre nous et vous.”"
+                    },
+                    {
+                        "number": 29,
+                        "text": "Loin de nous la pensée de nous révolter contre le Seigneur, de nous détourner du Seigneur aujourd’hui, en bâtissant un autel pour des holocaustes, des offrandes de céréales et des sacrifices, à part de l’autel du Seigneur notre Dieu, qui est devant sa demeure ! »"
+                    },
+                    {
+                        "number": 30,
+                        "text": "Le prêtre Pinhas, les responsables de la communauté et les chefs des clans d’Israël qui étaient avec lui entendirent ces paroles prononcées par les fils de Roubène, les fils de Gad et les fils de Manassé, et ils furent satisfaits."
+                    },
+                    {
+                        "number": 31,
+                        "text": "Pinhas, fils du prêtre Éléazar, dit aux fils de Roubène, aux fils de Gad et aux fils de Manassé : « Nous savons maintenant que le Seigneur est au milieu de nous : vous n’avez pas commis cette transgression envers le Seigneur. Vous avez ainsi délivré les fils d’Israël de la main du Seigneur. »"
+                    },
+                    {
+                        "number": 32,
+                        "text": "Pinhas, fils du prêtre Éléazar, et les responsables, quittant les fils de Roubène et les fils de Gad, revinrent du pays de Galaad au pays de Canaan, vers les fils d’Israël pour leur rendre compte."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Les fils d’Israël furent satisfaits. Ils bénirent Dieu, renoncèrent à attaquer et ravager le pays habité par les fils de Roubène et les fils de Gad."
+                    },
+                    {
+                        "number": 34,
+                        "text": "Les fils de Roubène et les fils de Gad appelèrent l’autel : « Témoin », car « il est témoin entre nous que le Seigneur est Dieu. »"
+                    }
+                ]
+            },
+            {
+                "number": 23,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Longtemps après que le Seigneur eut accordé le repos à Israël face à ses ennemis alentour, Josué, étant devenu vieux et avancé en âge,"
+                    },
+                    {
+                        "number": 2,
+                        "text": "convoqua tout Israël, ses anciens, ses chefs, ses juges et ses scribes. Il leur dit : « Je suis vieux et avancé en âge."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Et vous-mêmes, vous avez vu tout ce que le Seigneur votre Dieu a fait contre toutes ces nations à cause de vous : c’est le Seigneur votre Dieu qui combattait pour vous."
+                    },
+                    {
+                        "number": 4,
+                        "text": "Voyez ! J’ai fait tomber, en héritage pour vous, pour vos tribus, ces nations qui restent, comme celles que j’ai vaincues depuis le Jourdain jusqu’à la mer Méditerranée, au soleil couchant."
+                    },
+                    {
+                        "number": 5,
+                        "text": "C’est le Seigneur votre Dieu lui-même qui les repousse à cause de vous, les dépossède devant vous. Et vous prendrez possession de leur pays, comme vous l’a dit le Seigneur votre Dieu."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Vous serez donc très forts pour observer et mettre en pratique tout ce qui est écrit dans le livre de la loi de Moïse, sans vous en écarter ni à droite ni à gauche,"
+                    },
+                    {
+                        "number": 7,
+                        "text": "sans vous mêler à ces populations qui subsistent près de vous. Vous ne prononcerez pas le nom de leurs dieux ; vous ne prêterez pas de serment par ce nom ; vous ne les servirez pas ; vous ne vous prosternerez pas devant eux."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Mais c’est au Seigneur votre Dieu que vous vous attacherez, comme vous l’avez fait jusqu’à ce jour."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Le Seigneur a dépossédé devant vous des nations grandes et puissantes. Personne n’a pu vous résister jusqu’à ce jour."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Un seul d’entre vous en poursuit mille, car le Seigneur votre Dieu combat lui-même pour vous, comme il vous l’a dit."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Vous prendrez bien garde à vous-mêmes en aimant le Seigneur votre Dieu."
+                    },
+                    {
+                        "number": 12,
+                        "text": "Car si vous vous détournez, si vous vous attachez au reste des nations qui demeurent auprès de vous, si vous allez vous y marier, si vous vous mêlez à elles et qu’elles se mêlent à vous,"
+                    },
+                    {
+                        "number": 13,
+                        "text": "sachez-le bien : le Seigneur votre Dieu ne continuera pas de les déposséder devant vous. Elles seront pour vous comme un filet ou un piège, un fouet sur vos côtés, des épines dans vos yeux, jusqu’à ce que vous disparaissiez de cette bonne terre que vous a donnée le Seigneur votre Dieu."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Moi, je m’en vais aujourd’hui par le chemin de tout le monde. Vous, vous reconnaissez, de tout votre cœur et de toute votre âme, qu’aucun des engagements pris par le Seigneur votre Dieu en votre faveur n’est resté sans effet : pour vous, tous ces engagements se sont réalisés, aucun d’eux n’est resté sans effet."
+                    },
+                    {
+                        "number": 15,
+                        "text": "Eh bien ! De même que tout engagement pris par le Seigneur votre Dieu s’est réalisé, de même le Seigneur réalisera contre vous toutes ses menaces, jusqu’à vous éliminer de cette bonne terre que le Seigneur votre Dieu vous a donnée."
+                    },
+                    {
+                        "number": 16,
+                        "text": "Si vous transgressez l’alliance du Seigneur votre Dieu, alliance qu’il vous a prescrite, si vous allez servir d’autres dieux et vous prosterner devant eux, alors la colère du Seigneur s’enflammera contre vous et vous disparaîtrez rapidement de cette bonne terre que le Seigneur vous a donnée. »"
+                    },
+                    {
+                        "number": 23,
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "number": 24,
+                "verses": [
+                    {
+                        "number": 1,
+                        "text": "Josué réunit toutes les tribus d’Israël à Sichem ; puis il appela les anciens d’Israël, avec les chefs, les juges et les scribes ; ils se présentèrent devant Dieu."
+                    },
+                    {
+                        "number": 2,
+                        "text": "Josué dit alors à tout le peuple : « Ainsi parle le Seigneur, le Dieu d’Israël : Vos ancêtres habitaient au-delà de l’Euphrate depuis toujours, jusqu’à Tèrah, père d’Abraham et de Nahor, et ils servaient d’autres dieux."
+                    },
+                    {
+                        "number": 3,
+                        "text": "Alors j’ai pris votre père Abraham au-delà de l’Euphrate, et je lui ai fait traverser toute la terre de Canaan ; j’ai multiplié sa descendance, et je lui ai donné Isaac."
+                    },
+                    {
+                        "number": 4,
+                        "text": "À Isaac, j’ai donné Jacob et Ésaü. À Ésaü, j’ai donné en possession la montagne de Séïr. Jacob et ses fils sont descendus en Égypte."
+                    },
+                    {
+                        "number": 5,
+                        "text": "J’ai envoyé ensuite Moïse et Aaron, et j’ai frappé l’Égypte par tout ce que j’ai accompli au milieu d’elle. Ensuite, je vous en ai fait sortir."
+                    },
+                    {
+                        "number": 6,
+                        "text": "Donc, j’ai fait sortir vos pères de l’Égypte, et vous êtes arrivés à la mer ; les Égyptiens poursuivaient vos pères avec des chars et des guerriers jusqu’à la mer des Roseaux."
+                    },
+                    {
+                        "number": 7,
+                        "text": "Vos pères crièrent alors vers le Seigneur, qui étendit un brouillard épais entre vous et les Égyptiens, et fit revenir sur eux la mer, qui les recouvrit. Vous avez vu de vos propres yeux ce que j’ai fait en Égypte, puis vous avez séjourné longtemps dans le désert."
+                    },
+                    {
+                        "number": 8,
+                        "text": "Je vous ai introduits ensuite dans le pays des Amorites qui habitaient au-delà du Jourdain. Ils vous ont fait la guerre, et je les ai livrés entre vos mains : vous avez pris possession de leur pays, car je les ai anéantis devant vous."
+                    },
+                    {
+                        "number": 9,
+                        "text": "Puis Balaq, fils de Cippor, roi de Moab, se leva pour faire la guerre à Israël, et il envoya chercher Balaam, fils de Béor, pour vous maudire."
+                    },
+                    {
+                        "number": 10,
+                        "text": "Mais je n’ai pas voulu écouter Balaam : il a même dû vous bénir, et je vous ai sauvés de la main de Balaq."
+                    },
+                    {
+                        "number": 11,
+                        "text": "Ensuite, vous avez passé le Jourdain pour atteindre Jéricho ; les chefs de Jéricho vous ont fait la guerre, ainsi que de nombreux peuples : les Amorites, les Perizzites, les Cananéens, les Hittites, les Guirgashites, les Hivvites, les Jébuséens ; mais je les ai livrés entre vos mains."
+                    },
+                    {
+                        "number": 12,
+                        "text": "J’ai envoyé devant vous des frelons, qui ont chassé les deux rois amorites ; ce ne fut ni par ton épée ni par ton arc."
+                    },
+                    {
+                        "number": 13,
+                        "text": "Je vous ai donné une terre qui ne vous a coûté aucune peine, des villes dans lesquelles vous vous êtes installés sans les avoir bâties, des vignes et des oliveraies dont vous profitez aujourd’hui sans les avoir plantées."
+                    },
+                    {
+                        "number": 14,
+                        "text": "Et maintenant craignez le Seigneur ; servez-le dans l’intégrité et la fidélité. Écartez les dieux que vos pères ont servis au-delà de l’Euphrate et en Égypte ; servez le Seigneur."
+                    },
+                    {
+                        "number": 15,
+                        "text": "S’il ne vous plaît pas de servir le Seigneur, choisissez aujourd’hui qui vous voulez servir : les dieux que vos pères servaient au-delà de l’Euphrate, ou les dieux des Amorites dont vous habitez le pays. Moi et les miens, nous voulons servir le Seigneur. »"
+                    },
+                    {
+                        "number": 16,
+                        "text": "Le peuple répondit : « Plutôt mourir que d’abandonner le Seigneur pour servir d’autres dieux !"
+                    },
+                    {
+                        "number": 17,
+                        "text": "C’est le Seigneur notre Dieu qui nous a fait monter, nous et nos pères, du pays d’Égypte, cette maison d’esclavage ; c’est lui qui, sous nos yeux, a accompli tous ces signes et nous a protégés tout le long du chemin que nous avons parcouru, chez tous les peuples au milieu desquels nous sommes passés."
+                    },
+                    {
+                        "number": 18,
+                        "text": "Et même le Seigneur a chassé devant nous tous ces peuples, ainsi que les Amorites qui habitaient le pays. Nous aussi, nous voulons servir le Seigneur, car c’est lui notre Dieu. »"
+                    },
+                    {
+                        "number": 19,
+                        "text": "Alors Josué dit au peuple : « Vous ne pouvez pas servir le Seigneur, car il est un Dieu saint, il est un Dieu jaloux, qui ne pardonnera ni vos révoltes ni vos péchés."
+                    },
+                    {
+                        "number": 20,
+                        "text": "Si vous abandonnez le Seigneur pour servir les dieux étrangers, il se retournera contre vous, il vous fera du mal, il vous anéantira, lui qui vous a fait tant de bien. »"
+                    },
+                    {
+                        "number": 21,
+                        "text": "Le peuple répondit à Josué : « Mais si ! Nous voulons servir le Seigneur. »"
+                    },
+                    {
+                        "number": 22,
+                        "text": "Alors Josué dit au peuple : « Vous en êtes les témoins contre vous-mêmes : c’est vous qui avez choisi de servir le Seigneur. » Ils répondirent : « Nous en sommes témoins. »"
+                    },
+                    {
+                        "number": 23,
+                        "text": "Josué reprit : « Alors, enlevez les dieux étrangers qui sont au milieu de vous, et tournez votre cœur vers le Seigneur, le Dieu d’Israël. »"
+                    },
+                    {
+                        "number": 24,
+                        "text": "Le peuple répondit à Josué : « C’est le Seigneur notre Dieu que nous voulons servir, c’est à sa voix que nous voulons obéir. »"
+                    },
+                    {
+                        "number": 25,
+                        "text": "En ce jour-là, Josué conclut une Alliance pour le peuple. C’est dans la ville de Sichem qu’il lui donna un statut et un droit."
+                    },
+                    {
+                        "number": 26,
+                        "text": "Josué inscrivit tout cela dans le livre de la loi de Dieu. Il prit une grande pierre et la dressa sous le chêne qui était dans le sanctuaire du Seigneur."
+                    },
+                    {
+                        "number": 27,
+                        "text": "Il dit à tout le peuple : « Voici une pierre qui servira de témoin contre nous, car elle a entendu toutes les paroles que le Seigneur nous a dites ; elle servira de témoin contre vous, pour vous empêcher de renier votre Dieu. »"
+                    },
+                    {
+                        "number": 28,
+                        "text": "Puis Josué renvoya le peuple, chacun dans la part de territoire qui était son héritage."
+                    },
+                    {
+                        "number": 29,
+                        "text": "Après ces événements, Josué, fils de Noun, serviteur du Seigneur, mourut à l’âge de cent dix ans."
+                    },
+                    {
+                        "number": 30,
+                        "text": "On l’ensevelit dans le territoire qu’il avait reçu en héritage, à Timnath-Sèrah, dans la montagne d’Éphraïm, au nord du mont Gaash."
+                    },
+                    {
+                        "number": 31,
+                        "text": "Israël servit le Seigneur pendant toute la vie de Josué, et pendant toute la vie des anciens qui vécurent encore après Josué. Ils connaissaient toute l’œuvre que le Seigneur avait faite pour Israël."
+                    },
+                    {
+                        "number": 32,
+                        "text": "Quant aux ossements de Joseph, que les fils d’Israël avaient emportés d’Égypte, on les ensevelit à Sichem, dans la parcelle du champ que Jacob avait acheté pour cent pièces d’argent aux fils de Hamor, père de Sichem. Ils devinrent un héritage pour les fils de Joseph."
+                    },
+                    {
+                        "number": 33,
+                        "text": "Éléazar, fils d’Aaron, mourut. On l’ensevelit sur la colline de son fils Pinhas, celle qui lui avait été donnée dans la montagne d’Éphraïm."
+                    }
+                ]
+            }
+        ]
+    }
+}

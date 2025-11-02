@@ -1,0 +1,3 @@
+Commande à lancer pour mettre à jour le PATH :
+
+$env:GOOGLE_APPLICATION_CREDENTIALS = "secrets\dogwood-canto-475821-m9-3bd924c8a8b4.json"
